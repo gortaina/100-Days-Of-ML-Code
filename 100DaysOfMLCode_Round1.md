@@ -11,8 +11,8 @@ Studying examples in R with "caret" package
 Using finanacial dataset from https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
 <br>
 Files: 
-<br>https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/file/Cap10.R
-<br>https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/file/credit-card.csv
+<br>https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/file/day1/Cap10.R
+<br>https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/file/day1/credit-card.csv
 <br>       
 #100DaysOfMLCode
  
