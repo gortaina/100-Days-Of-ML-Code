@@ -4,6 +4,7 @@
     100DaysOfMLCode
 </h1>
 <h4 align="left">
+100 Days of Machine Learning Coding as proposed by Siraj Raval, cloned from https://github.com/Avik-Jain/100-Days-Of-ML-Code    
 My logbooks for #100DaysOfMLCode, if you don´t know what is it, look -> https://https://www.youtube.com/watch?v=cuQMBj1cWPo/
 </h4>
 <p align="center"> 
@@ -11,11 +12,6 @@ My logbooks for #100DaysOfMLCode, if you don´t know what is it, look -> https:/
    <img alt="Repository size" src="https://img.shields.io/github/repo-size/gortaina/100DaysOfCode.svg">
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gortaina/100DaysOfCode?color=blue">
 </p>
-
-
-# 100-Days-Of-ML-Code
-100 Days of Machine Learning Coding as proposed by Siraj Raval, cloned from https://github.com/Avik-Jain/100-Days-Of-ML-Code
-
 
 ## :rocket: Tracks
 
