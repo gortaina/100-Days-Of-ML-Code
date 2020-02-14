@@ -5,7 +5,7 @@
 </h1>
 <h4 align="left">
 100 Days of Machine Learning Coding as proposed by Siraj Raval, cloned from https://github.com/Avik-Jain/100-Days-Of-ML-Code    
-My logbooks for #100DaysOfMLCode, if you don´t know what is it, look -> https://https://www.youtube.com/watch?v=cuQMBj1cWPo/
+<br>My logbooks for #100DaysOfMLCode, if you don´t know what is it, look -> https://https://www.youtube.com/watch?v=cuQMBj1cWPo/
 </h4>
 <p align="center"> 
    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"> 
