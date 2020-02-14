@@ -43,4 +43,7 @@ ___
 <h6>https://www.quantamagazine.org/the-map-of-mathematics-20200213/</h6>
 <h6>https://www.viva64.com/en/b/0706/?utm_source=tm&utm_medium=ai_machinelearning_big_data&utm_campaign=telegram</h6>
 <h6>https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/</h6>
+<h6>http://unbouncepages.com/dream2bbatchai/</h6>
+<h6></h6>
+<h6>        </h6>
 
