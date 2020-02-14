@@ -40,3 +40,5 @@ ___
 <br>
 :trollface:Utils:trollface:
 <h6>https://gitmoji.carloscuesta.me/</h6>
+<h6>https://www.quantamagazine.org/the-map-of-mathematics-20200213/</h6>
+<h6>https://www.viva64.com/en/b/0706/?utm_source=tm&utm_medium=ai_machinelearning_big_data&utm_campaign=telegram</h6>
