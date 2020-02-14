@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="100DaysOfCode" src="./img/1_nYMkr4TCfomN4tw3SU8o_w.jpeg"  width="50%" heigth="50%"/>
     <br>
-    100DaysOfMLCode
+    100 Days Of Machine Learning Code
 </h1>
 <h4 align="left">
 100 Days of Machine Learning Coding as proposed by Siraj Raval, cloned from https://github.com/Avik-Jain/100-Days-Of-ML-Code    
