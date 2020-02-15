@@ -45,7 +45,7 @@ ___
 <h6>https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/</h6>
 <h6>http://unbouncepages.com/dream2bbatchai/</h6>
 <h6>http://livros-matema.blogspot.com/</h6>
-<h6></h6>
+<h6>https://www.daxpatterns.com/</h6>
 <h6></h6>
 <h6></h6>
 <h6></h6>
