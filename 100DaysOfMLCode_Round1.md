@@ -7,6 +7,14 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commitss https://gitmoji.carloscuesta.me/
 
 ## Day 01/100 14/02/2020 - Friday
+Studying Bayes Theorem, wow, it`s easy to understanding
+<br>https://www.wikiwand.com/pt/Teorema_de_Bayes
+<br>https://towardsdatascience.com/if-you-are-a-bayesian-you-have-to-be-naive-ac55492889bf
+<br>#100DaysOfMLCode
+<br><image  width="50%" height="50%" src="./img/data-science-bayes-theorem-2.jpg" >
+
+
+## Day 01/100 14/02/2020 - Friday
 Studying examples in R with "caret" package
 ### Random Forest Classification Model
 Using finanacial dataset from https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
