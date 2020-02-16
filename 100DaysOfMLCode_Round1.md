@@ -12,6 +12,8 @@ Studying Bayes Theorem, wow, it`s easy to understanding
 <br>https://towardsdatascience.com/if-you-are-a-bayesian-you-have-to-be-naive-ac55492889bf
 <br>#100DaysOfMLCode
 <br><image  width="50%" height="50%" src="./img/data-science-bayes-theorem-2.jpg" >
+<br><image  width="50%" height="50%" src="./img/1_5OROQqYWuC6to-5T9OMtXw.jpeg" >
+
 
 
 ## Day 01/100 14/02/2020 - Friday
