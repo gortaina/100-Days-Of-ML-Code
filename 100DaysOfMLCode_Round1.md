@@ -6,7 +6,7 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commitss https://gitmoji.carloscuesta.me/
 
-## Day 01/100 14/02/2020 - Friday
+## Day 02/100 15/02/2020 - Saturday
 Studying Bayes Theorem, wow, it`s easy to understanding
 <br>https://www.wikiwand.com/pt/Teorema_de_Bayes
 <br>https://towardsdatascience.com/if-you-are-a-bayesian-you-have-to-be-naive-ac55492889bf
