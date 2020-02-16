@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="100DaysOfCode" src="./img/1_nYMkr4TCfomN4tw3SU8o_w.jpeg"  width="50%" heigth="50%"/>
     <br>
-    100DaysOfMLCode
+    100 Days Of Machine Learning Code
 </h1>
 <h4 align="left">
 100 Days of Machine Learning Coding as proposed by Siraj Raval, cloned from https://github.com/Avik-Jain/100-Days-Of-ML-Code    
@@ -40,3 +40,13 @@ ___
 <br>
 :trollface:Utils:trollface:
 <h6>https://gitmoji.carloscuesta.me/</h6>
+<h6>https://www.quantamagazine.org/the-map-of-mathematics-20200213/</h6>
+<h6>https://www.viva64.com/en/b/0706/?utm_source=tm&utm_medium=ai_machinelearning_big_data&utm_campaign=telegram</h6>
+<h6>https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/</h6>
+<h6>http://unbouncepages.com/dream2bbatchai/</h6>
+<h6>http://livros-matema.blogspot.com/</h6>
+<h6>https://www.daxpatterns.com/</h6>
+<h6>https://www.r-graph-gallery.com/</h6>
+<h6></h6>
+<h6></h6>
+
