@@ -6,7 +6,7 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commitss https://gitmoji.carloscuesta.me/
 
-## Day 03/100 16/02/2020 - Monday
+## Day 03/100 16/02/2020 - Sunday
 Using TensorFlow on this lab
 https://www.qwiklabs.com/games/759/labs/2372
 <br>#100DaysOfMLCode
