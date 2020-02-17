@@ -6,6 +6,12 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commitss https://gitmoji.carloscuesta.me/
 
+## Day 03/100 16/02/2020 - Monday
+Using TensorFlow on this lab
+https://www.qwiklabs.com/games/759/labs/2372
+<br>#100DaysOfMLCode
+<br><image  width="50%" height="50%" src="./img/EQvd1WKXsAMvl_S.png" >
+
 ## Day 02/100 15/02/2020 - Saturday
 Studying Bayes Theorem, wow, it`s easy to understanding
 <br>https://www.wikiwand.com/pt/Teorema_de_Bayes
