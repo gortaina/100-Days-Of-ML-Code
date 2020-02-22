@@ -6,6 +6,11 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commitss https://gitmoji.carloscuesta.me/
 
+## Day 04/106 22/02/2020 - Saturday
+The easy explanation about ROC curve: Healthy and Sick
+<br>#100DaysOfMLCode
+<br><image  width="50%" height="50%" src="./img/2020-02-21_23-10-55.png" >
+
 ## Day 03/100 16/02/2020 - Sunday
 Using TensorFlow on this lab
 https://www.qwiklabs.com/games/759/labs/2372
