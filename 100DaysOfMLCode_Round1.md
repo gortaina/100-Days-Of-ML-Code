@@ -9,6 +9,8 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 
 ## Day 05/106 23/02/2020 - Sunday
 Let´s trainning this
+# Data PreProcessing | 
+Check out the code from [here 01/54](./code/Day%201_Data%20PreProcessing.md)
 <br>#100DaysOfMLCode
 <br><image  width="50%" height="50%" src="./img/Day 1.jpg" >
 
