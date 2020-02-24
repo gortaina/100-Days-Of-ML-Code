@@ -6,6 +6,10 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commitss https://gitmoji.carloscuesta.me/
 
+## Day 06/106 24/02/2020 - Monday
+Solve basic functions in python
+Check out the code from [here -> Function-exercises](./code/DSA-Python-Cap03-Exercicios-Funcoes.md)
+<br>#100DaysOfMLCode
 
 ## Day 05/106 23/02/2020 - Sunday
 Let´s trainning this
