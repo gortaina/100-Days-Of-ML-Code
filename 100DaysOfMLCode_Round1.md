@@ -6,6 +6,12 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commitss https://gitmoji.carloscuesta.me/
 
+
+## Day 05/106 23/02/2020 - Sunday
+Let´s trainning this
+<br>#100DaysOfMLCode
+<br><image  width="50%" height="50%" src="./img/Day 1.jpg" >
+
 ## Day 04/106 22/02/2020 - Saturday
 The easy explanation about ROC curve: Healthy and Sick
 <br>#100DaysOfMLCode
