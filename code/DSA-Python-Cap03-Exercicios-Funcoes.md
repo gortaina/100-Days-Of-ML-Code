@@ -69,6 +69,9 @@ addLista([5,6,7,"8oito"])
 ```python
 def recebeLista(lista1, *listaN):
     print ("lista1 %r listaN %r", lista1, listaN)
+    for i in listaN:
+        print(i)
+    return;
     
 recebeLista(["N"])
 recebeLista(["N"],["D","E"],["a","b","c","d"])
@@ -76,7 +79,8 @@ recebeLista(["N"],["D","E"],["a","b","c","d"])
 
     lista1 %r listaN %r ['N'] ()
     lista1 %r listaN %r ['N'] (['D', 'E'], ['a', 'b', 'c', 'd'])
-    
+    ['D', 'E']
+    ['a', 'b', 'c', 'd']    
 
 
 ```python
@@ -146,9 +150,50 @@ dic1 = {"key1":100,"key2":200,"key3":300,"key4":400,}
 for k,v in dic1.items():
     print("keys",k)
     print("values", v)
-    
-```
 
+dir(dic1)   
+```
+    ['__class__',
+    '__contains__',
+    '__delattr__',
+    '__delitem__',
+    '__dir__',
+    '__doc__',
+    '__eq__',
+    '__format__',
+    '__ge__',
+    '__getattribute__',
+    '__getitem__',
+    '__gt__',
+    '__hash__',
+    '__init__',
+    '__init_subclass__',
+    '__iter__',
+    '__le__',
+    '__len__',
+    '__lt__',
+    '__ne__',
+    '__new__',
+    '__reduce__',
+    '__reduce_ex__',
+    '__repr__',
+    '__setattr__',
+    '__setitem__',
+    '__sizeof__',
+    '__str__',
+    '__subclasshook__',
+    'clear',
+    'copy',
+    'fromkeys',
+    'get',
+    'items',
+    'keys',
+    'pop',
+    'popitem',
+    'setdefault',
+    'update',
+    'values']
+ 
     keys key1
     values 100
     keys key2
@@ -329,8 +374,11 @@ file_name = "binary.csv"
 ```python
 #help(pd.DataFrame)
 #help(pd.read_csv)
-df = pd.read_csv(file_name)
-df.describe()
+def lerdescricaoArquivo(file_name):
+    df = pd.read_csv(file_name)
+    return df.describe()
+    
+lerdescricaoArquivo(file_name)   
 ```
 
 
