@@ -68,7 +68,7 @@ addLista([5,6,7,"8oito"])
 
 ```python
 def recebeLista(lista1, *listaN):
-    print ("lista1 %r listaN %r", lista1, listaN)
+    print ("lista1 %r listaN %r" %(lista1, listaN))
     for i in listaN:
         print(i)
     return;
@@ -76,12 +76,11 @@ def recebeLista(lista1, *listaN):
 recebeLista(["N"])
 recebeLista(["N"],["D","E"],["a","b","c","d"])
 ```
-
-    lista1 %r listaN %r ['N'] ()
-    lista1 %r listaN %r ['N'] (['D', 'E'], ['a', 'b', 'c', 'd'])
+    
+    lista1 ['N'] listaN ()
+    lista1 ['N'] listaN (['D', 'E'], ['a', 'b', 'c', 'd'])
     ['D', 'E']
-    ['a', 'b', 'c', 'd']    
-
+    ['a', 'b', 'c', 'd']
 
 ```python
 # Exercício 5 - Crie uma função anônima e atribua seu retorno a uma variável chamada soma. A expressão vai receber 2 
