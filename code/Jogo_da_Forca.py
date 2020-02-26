@@ -81,11 +81,14 @@ class Forca:
     # Método para adivinhar a letra
     def guess(self, letter):
         self.word_guess = list(map(lambda x: x if (x in letter) else "-", self.word))
-        if(letter in self.word):
+        # Faz a verificação se a letra eEvita a adição de letras repetidas
+        if(letter in self.word and letter not in self.right_letter):
             self.right_letter.append(letter)
             return True
-        else:
+        elif(letter not in self.word and letter not in self.wrong_letter):
             self.wrong_letter.append(letter)
+            return False
+        else:
             return False
 
     # Método para verificar se o jogo terminou
@@ -115,12 +118,10 @@ class Forca:
     def print_game_status(self):
         print(tabuleiro[len(self.wrong_letter)])
         print("\nPalavra: ", self.hide_word())
-        print("\nLetras erradas: ")
-        for a in self.wrong_letter:
-            print(a)
-        print("\nLetras corretas: ")
-        for a in self.right_letter:
-            print(a)
+        # O join retira as chaves e separa as letras por vírgula
+        print("\nLetras erradas:  ", ', '.join(self.wrong_letter))
+        print("\nLetras corretas: ", ', '.join(self.right_letter))
+
 
 # Função para ler uma palavra de forma aleatória do banco de palavras
 def rand_word():
