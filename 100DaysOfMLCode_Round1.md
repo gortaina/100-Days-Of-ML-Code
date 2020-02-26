@@ -6,6 +6,11 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commitss https://gitmoji.carloscuesta.me/
 
+## Day 08/106 26/02/2020 - Wednesday
+SQL for Data Science #4: Explore and plot 10 million NYC citibike records, click on the image below
+<br>#100DaysOfMLCode 
+[![Checkout here ](img/2020-02-26_13-39-43.png)](https://www.youtube.com/watch?v=V4ud16P3pnE&list=PLTC_zsUJ6SJ8LNN16uFJwv4QQt5LNisJy)
+
 ## Day 07/106 25/02/2020 - Tuesday
 Making a hangman game in python
 <br>#100DaysOfMLCode
@@ -40,8 +45,6 @@ Studying Bayes Theorem, wow, it`s easy to understanding
 <br>#100DaysOfMLCode
 <br><image  width="50%" height="50%" src="./img/data-science-bayes-theorem-2.jpg" >
 <br><image  width="50%" height="50%" src="./img/1_5OROQqYWuC6to-5T9OMtXw.jpeg" >
-
-
 
 ## Day 01/100 14/02/2020 - Friday
 Studying examples in R with "caret" package
