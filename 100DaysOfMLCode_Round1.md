@@ -7,7 +7,7 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commitss https://gitmoji.carloscuesta.me/
 
 ## Day 07/106 25/02/2020 - Tuesday
-Making a hangman game in pyton
+Making a hangman game in python
 <br>#100DaysOfMLCode
 <br><image  width="50%" height="50%" src="./img/ed141bac52ed8034f5bf80ad95fc8bab.jpg" >
 
