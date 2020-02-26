@@ -9,8 +9,8 @@
 </h4>
 <p align="center"> 
    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"> 
-   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gortaina/100DaysOfCode.svg">
-   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gortaina/100DaysOfCode?color=blue">
+   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gortaina/100-Days-Of-ML-Code.svg">
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gortaina/100-Days-Of-ML-Code?color=blue">
 </p>
 
 ## :rocket: Tracks
