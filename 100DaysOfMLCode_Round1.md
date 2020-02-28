@@ -4,7 +4,13 @@ My journey through 100 days of ML code.
 
 Minha jornada do desafio 100 dias de código de Machine Learning
 
-emoticon for commitss https://gitmoji.carloscuesta.me/
+emoticon for commit https://gitmoji.carloscuesta.me/
+
+
+## Day 09/106 27/02/2020 - Thursday - Dawn
+Build my sentiment analysis app with twitter
+<br>#100DaysOfMLCode 
+<br><image src="./img/slide1.jpg" >
 
 ## Day 08/106 26/02/2020 - Wednesday
 SQL for Data Science #4: Explore and plot 10 million NYC citibike records, click on the image below
