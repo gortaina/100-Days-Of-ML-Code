@@ -11,6 +11,7 @@
    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"> 
    <img alt="Repository size" src="https://img.shields.io/github/repo-size/gortaina/100-Days-Of-ML-Code.svg">
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gortaina/100-Days-Of-ML-Code?color=blue">
+   <img alt="GitHub activity" src="https://img.shields.io/github/commit-activity/m/gortaina/100-Days-Of-ML-Code?color=blue">
 </p>
 
 ## :rocket: Tracks
