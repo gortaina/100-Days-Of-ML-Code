@@ -7,6 +7,13 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 
 
+## Day 10/106 28/02/2020 - Friday
+Scikit-Learn, a road map for use
+<br>#100DaysOfMLCode 
+<br><image src="./img/sdfsdfaddownload.png" >
+
+
+
 ## Day 09/106 27/02/2020 - Thursday - Dawn
 Build my sentiment analysis app with twitter
 <br>#100DaysOfMLCode 
