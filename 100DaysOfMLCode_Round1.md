@@ -6,6 +6,11 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+## Day 11/106 29/02/2020 - Saturday
+Programming a strategy for BlackJack.
+<br>#100DaysOfMLCode 
+<br><image src="./img/blackjack-strategy-chart2-min.png" >
+
 
 ## Day 10/106 28/02/2020 - Friday
 Scikit-Learn, a road map for use
