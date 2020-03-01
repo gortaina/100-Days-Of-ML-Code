@@ -6,6 +6,13 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+
+## Round 1 - Day 12/106 01/03/2020 - Saturday
+Getting in the Kaggle, let´s battle! :rocket:
+<br>#100DaysOfMLCode 
+<br><image src="./img/sdfdownload.png" >
+
+
 ## Day 11/106 29/02/2020 - Saturday
 Programming a strategy for BlackJack.
 <br>#100DaysOfMLCode 
