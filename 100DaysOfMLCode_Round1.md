@@ -7,6 +7,12 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 
 
+## Round 1 - Day 13/106 02/03/2020 - Monday
+Learning about Alexa 
+<br>#100DaysOfMLCode 
+<br><image width="50%" height="50%" src="./img/hero-feature_Certified-Skill-Builder-Incentive-V2-1_480x340@2x.png" >
+
+
 ## Round 1 - Day 12/106 01/03/2020 - Sunday
 Getting in the Kaggle, let´s battle! :rocket:
 <br>#100DaysOfMLCode 
