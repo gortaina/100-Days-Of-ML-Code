@@ -7,6 +7,11 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 
 
+## Round 1 - Day 13/106 03/03/2020 - Tuesday
+Getting another Hackaton,Mega Hack Pocket by Shawee
+<br>#100DaysOfMLCode 
+<br><image width="50%" height="50%" src="./img/adfadsfunnamed.gif" >
+ 
 ## Round 1 - Day 13/106 02/03/2020 - Monday
 Learning about Alexa 
 <br>#100DaysOfMLCode 
