@@ -6,6 +6,9 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+## Round 1 - Day 14/106 04/03/2020 - Wednesday
+Studying R and Azure
+<br>#100DaysOfMLCode 
 
 ## Round 1 - Day 13/106 03/03/2020 - Tuesday
 Getting another Hackaton,Mega Hack Pocket by Shawee
