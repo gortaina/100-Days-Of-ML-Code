@@ -8,6 +8,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 
 
 
+## Round 1 - Day 18/106 08/03/2020 - Sunday
+Women on Stats
+<br>Thank you!Florence nightingale by Rose Map
+<br>#100DaysOfMLCode 
+<br><image src="./img/dsfsdfaaaunnamed (1).jpg" >
+
 ## Round 1 - Day 17/106 07/03/2020 - Saturday
 Azure and R, again 
 <br>#100DaysOfMLCode 
