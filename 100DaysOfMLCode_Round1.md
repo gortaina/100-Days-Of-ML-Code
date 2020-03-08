@@ -6,11 +6,22 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+
+
+## Round 1 - Day 17/106 07/03/2020 - Saturday
+Azure and R, again 
+<br>#100DaysOfMLCode 
+
+## Round 1 - Day 16/106 06/03/2020 - Friday
+Terraform, infra as code!
+<br>#100DaysOfMLCode 
+<br><image width="50%" height="50%" src="./img/dowsdfsdfnload.png" >
+
+
 ## Round 1 - Day 15/106 05/03/2020 - Thursday
 Studying R, "caret" package
 <br>#100DaysOfMLCode 
 <br><image width="50%" height="50%" src="./img/Machine-Learning-Packages-in-R.jpg" >
-
 
 
 ## Round 1 - Day 14/106 04/03/2020 - Wednesday
