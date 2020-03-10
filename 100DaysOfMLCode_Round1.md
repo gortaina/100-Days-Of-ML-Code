@@ -8,6 +8,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 
 
 
+## Round 1 - Day 19/106 09/03/2020 - Monday
+<br>My day today!
+<br>Take care of null and "", a DB may not bring all the data
+<br> SQL Statement part -> "...WHERE (name <> 'JOEL' or name is null)" -- brings the nulls, please! KKK
+<br>#100DaysOfMLCode 
+<br><image src="./img/0 (2).jpg" >
+
 ## Round 1 - Day 18/106 08/03/2020 - Sunday
 Women on Stats
 <br>Thank you!Florence nightingale by Rose Map
