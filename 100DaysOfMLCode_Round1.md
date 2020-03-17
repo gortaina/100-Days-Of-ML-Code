@@ -6,10 +6,9 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
-## Round 1 - Day 22/110 15/03/2020 - Sunday
-Project data analytics delivered!
+## Round 1 - Day 23/110 16/03/2020 - Monday
+Studying graphs on power bi
 <br>#100DaysOfMLCode 
-<br><image width="50%" height="50%" src="./img/2020-03-15_22-55-42.jpg" >
 
 ## Round 1 - Day 22/110 15/03/2020 - Sunday
 Project data analytics delivered!
