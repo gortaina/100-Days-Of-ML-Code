@@ -14,9 +14,8 @@ Studying linear algebra
 
 
 ## Round 1 - Day 25/110 18/03/2020 - Wednesday
-Win on 2º Hackaton - from nowhere to 4º place :rocket:
-<br>Data Hack on brazilian startups
-<br>I´m used M language on power bi platform
+Great place in the 2nd Data Hackathon - from nowhere to 4th place, I'm improving
+<br>I used the M language on the power bi platform
 <br>#100DaysOfMLCode 
 <br><image width="50%" height="50%" src="./img/Hackathon.png" >
  
