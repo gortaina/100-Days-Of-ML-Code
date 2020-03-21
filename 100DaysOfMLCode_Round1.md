@@ -8,10 +8,14 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 
 
 
+## Round 1 - Day 27/110 20/03/2020 - Friday
+New hackaton on COVID-19 by shawee
+<br>#100DaysOfMLCode 
+<br><image width="50%" height="50%" src="./img/JJ0.jpg" >
+
 ## Round 1 - Day 26/110 19/03/2020 - Thursday
 Studying linear algebra
 <br>#100DaysOfMLCode 
-
 
 ## Round 1 - Day 25/110 18/03/2020 - Wednesday
 Great place in the 2nd Data Hackathon - from nowhere to 4th place, I'm improving
