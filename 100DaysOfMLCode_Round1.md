@@ -6,6 +6,10 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+## Round 1 - Day 27/110 20/03/2020 - Friday
+New hackaton on COVID-19 by shawee
+<br>#100DaysOfMLCode 
+<br><image width="50%" height="50%" src="./img/JJ0.jpg" >
 
 
 ## Round 1 - Day 27/110 20/03/2020 - Friday
