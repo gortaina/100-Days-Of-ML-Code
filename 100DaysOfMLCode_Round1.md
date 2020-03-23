@@ -6,6 +6,10 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+## Round 1 - Day 30/110 23/03/2020 - Monday
+New Hackaton on Twilio
+<br>#100DaysOfMLCode 
+
 ## Round 1 - Day 29/110 22/03/2020 - Sunday
 Solving exercises linear algebra
 <br>#100DaysOfMLCode 
