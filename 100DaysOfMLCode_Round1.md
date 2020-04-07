@@ -6,6 +6,13 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+## Round 1 - Day 31/124 07/03/2020 - Tuesday
+I got sick, dengue fever hemorrhagic, 14 days in hospital, after all, I'm recovered without consequences.
+Back to code with no mosquitos!
+#100DaysOfCode
+#100DaysOfMLCode
+<br><image width="50%" height="50%" src="https://github.com/gortaina/100DaysOfCode/raw/master/img/28_01_2020_040114_940-1150x675.jpg" >
+
 ## Round 1 - Day 30/110 23/03/2020 - Monday
 New Hackaton on Twilio
 <br>#100DaysOfMLCode 
