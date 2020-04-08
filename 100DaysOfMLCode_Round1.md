@@ -6,6 +6,14 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+## Round 2 - 052/114 08/04/2020 - Wednesday 
+365 DataScience course for free until 15 april 2020!!
+Stay At Home Stay Safe, Improve your skills!!
+https://365datascience.com/pricing/?utm_medium=social&utm_source=youtube&utm_campaign=course-promo&utm_content=covid-19+response&utm_term=description&fbclid=IwAR2XUnTUaUhJOg-o-kZWtCq9mpk7DDhKlTIsWStTAkOW6Hufj4DRNi2km1k
+<br>#100DaysOfCode
+<br>#100DaysOfMLCode
+<br><image  width="50%" height="50%" src="./img/safe_image.png">
+ 
 ## Round 1 - Day 31/124 07/03/2020 - Tuesday
 I got sick, dengue fever hemorrhagic, 14 days in hospital, after all, I'm recovered without consequences.
 Back to code with no mosquitos!
