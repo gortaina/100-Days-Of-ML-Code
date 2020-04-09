@@ -6,6 +6,14 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+## Round 2 - 053/114 09/04/2020 - Thursday 
+New hackaton \o
+https://hackagr1d.com.br/
+<br>#100DaysOfCode
+<br>#100DaysOfMLCode
+<br><image  width="50%" height="50%" src="./img/2020-04-09_18-18-29.png">
+
+
 ## Round 2 - 052/114 08/04/2020 - Wednesday 
 365 DataScience course for free until 15 april 2020!!
 Stay At Home Stay Safe, Improve your skills!!
