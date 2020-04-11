@@ -6,13 +6,21 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+## Round 2 - 034/114 08/04/2020 - Friday 
+Getting labs on qwiklabs
+<br>https://go.qwiklabs.com/spring-speedrun?linkId=86276553
+<br>#100DaysOfMLCode
+<br><image  width="50%" height="50%" src="./img/2020-04-10_23-33-35.jpg">
+
+
+
+
 ## Round 2 - 033/114 09/04/2020 - Thursday 
 New hackaton \o
 https://hackagr1d.com.br/
 <br>#100DaysOfCode
 <br>#100DaysOfMLCode
 <br><image  width="50%" height="50%" src="./img/2020-04-09_18-18-29.png">
-
 
 ## Round 2 - 032/114 08/04/2020 - Wednesday 
 365 DataScience course for free until 15 april 2020!!
