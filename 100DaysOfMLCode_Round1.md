@@ -6,6 +6,11 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+## Round 2 - 035/114 11/04/2020 - Saturday 
+Studying linear algebra, again
+<br>
+<br>#100DaysOfMLCode
+
 ## Round 2 - 034/114 10/04/2020 - Friday 
 Getting labs on qwiklabs
 <br>https://go.qwiklabs.com/spring-speedrun?linkId=86276553
