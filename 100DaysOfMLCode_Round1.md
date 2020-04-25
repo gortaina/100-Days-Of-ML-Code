@@ -6,6 +6,14 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+## Round 2 - 040/114 25/04/2020 - Saturday 
+Apache Zeppelin or Jupyter notebook ?
+<br>ps.: I was paused daily code for exams, now I return \o
+<br>#100DaysOfMLCode
+<br><image  width="50%" height="50%" src="./img/download (1).png">
+<br><image  width="50%" height="50%" src="./img/downlosad.jpg">
+ 
+ 
 ## Round 2 - 039/114 15/04/2020 - Wednesday 
 Studying linear transformations on python
 <br>#100DaysOfMLCode
