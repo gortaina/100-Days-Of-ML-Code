@@ -6,6 +6,10 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+## Round 2 - 041/124 26/04/2020 - Sunday 
+<br>Solving data-wrangling problems on WQU - WorldQuant University
+<br>#100DaysOfMLCode
+
 ## Round 2 - 040/124 25/04/2020 - Saturday 
 Apache Zeppelin or Jupyter notebook ?
 <br>ps.: I was paused daily code for exams, now I return \o
