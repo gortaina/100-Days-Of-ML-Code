@@ -7,11 +7,14 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 
 
+## Round 2 - 043/124 28/04/2020 - Tuesday 
+<br>Still learning K-means clustering algorithm in the deep
+<br>#100DaysOfMLCode
+
 ## Round 2 - 042/124 27/04/2020 - Monday 
 <br>Learning K-means clustering algorithm in the deep
 <br>#100DaysOfMLCode
 <br><image  width="50%" height="50%" src="./img/K-means_convergence.gif">
-
 
 ## Round 2 - 041/124 26/04/2020 - Sunday 
 <br>Solving data-wrangling problems on WQU - WorldQuant University
