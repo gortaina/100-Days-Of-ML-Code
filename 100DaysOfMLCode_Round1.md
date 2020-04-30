@@ -6,6 +6,11 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+## Round 2 - 045/124 30/04/2020 - Thursday 
+<br>Trainning  my ability to wrangle tabular data set and aggregate large data sets into meaningful summary statistics
+<br>#100DaysOfMLCode
+<br><image  width="50%" height="50%" src="./img/dowsdfsdnload.png">
+
 
 ## Round 2 - 044/124 29/04/2020 - Wednesday 
 <br>K-means clustering algorithm - implementation finished in python
