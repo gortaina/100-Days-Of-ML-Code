@@ -6,6 +6,10 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+## Round 2 - 046/124 01/05/2020 - Friday 
+<br>Part II -Trainning  my ability to wrangle tabular data set and aggregate large data sets into meaningful summary statistics
+<br>#100DaysOfMLCode
+
 ## Round 2 - 045/124 30/04/2020 - Thursday 
 <br>Trainning  my ability to wrangle tabular data set and aggregate large data sets into meaningful summary statistics
 <br>#100DaysOfMLCode
