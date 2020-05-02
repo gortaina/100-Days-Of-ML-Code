@@ -6,34 +6,38 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
-## Round 2 - 046/124 01/05/2020 - Friday 
+## Round 1 - 047/124 02/05/2020 - Saturday 
+<br>Pandas, Numpy, seaborn for read, stats and view
+<br>#100DaysOfMLCode
+
+## Round 1 - 046/124 01/05/2020 - Friday 
 <br>Part II -Trainning  my ability to wrangle tabular data set and aggregate large data sets into meaningful summary statistics
 <br>#100DaysOfMLCode
 
-## Round 2 - 045/124 30/04/2020 - Thursday 
+## Round 1 - 045/124 30/04/2020 - Thursday 
 <br>Trainning  my ability to wrangle tabular data set and aggregate large data sets into meaningful summary statistics
 <br>#100DaysOfMLCode
 <br><image  width="50%" height="50%" src="./img/dowsdfsdnload.png">
 
 
-## Round 2 - 044/124 29/04/2020 - Wednesday 
+## Round 1 - 044/124 29/04/2020 - Wednesday 
 <br>K-means clustering algorithm - implementation finished in python
 <br>#100DaysOfMLCode
 
-## Round 2 - 043/124 28/04/2020 - Tuesday 
+## Round 1 - 043/124 28/04/2020 - Tuesday 
 <br>Still learning K-means clustering algorithm in the deep
 <br>#100DaysOfMLCode
 
-## Round 2 - 042/124 27/04/2020 - Monday 
+## Round 1 - 042/124 27/04/2020 - Monday 
 <br>Learning K-means clustering algorithm in the deep
 <br>#100DaysOfMLCode
 <br><image  width="50%" height="50%" src="./img/K-means_convergence.gif">
 
-## Round 2 - 041/124 26/04/2020 - Sunday 
+## Round 1 - 041/124 26/04/2020 - Sunday 
 <br>Solving data-wrangling problems on WQU - WorldQuant University
 <br>#100DaysOfMLCode
 
-## Round 2 - 040/124 25/04/2020 - Saturday 
+## Round 1 - 040/124 25/04/2020 - Saturday 
 Apache Zeppelin or Jupyter notebook ?
 <br>ps.: I was paused daily code for exams, now I return \o
 <br>#100DaysOfMLCode
@@ -41,32 +45,32 @@ Apache Zeppelin or Jupyter notebook ?
 <br><image  width="50%" height="50%" src="./img/downlosad.jpg">
  
  
-## Round 2 - 039/114 15/04/2020 - Wednesday 
+## Round 1 - 039/114 15/04/2020 - Wednesday 
 Studying linear transformations on python
 <br>#100DaysOfMLCode
 
-## Round 2 - 038/114 14/04/2020 - Tuesday
+## Round 1 - 038/114 14/04/2020 - Tuesday
 Apply for learn
 <br>https://wqu.org/programs/data-science
 <br><image  width="50%" height="50%" src="./img/wquniversity.png">
 <br>#100DaysOfMLCode
 
-## Round 2 - 037/114 13/04/2020 - Monday 
+## Round 1 - 037/114 13/04/2020 - Monday 
 Studying linear transformation II
 <br>
 <br>#100DaysOfMLCode
 
-## Round 2 - 036/114 12/04/2020 - Sunday 
+## Round 1 - 036/114 12/04/2020 - Sunday 
 Studying linear transformation
 <br>
 <br>#100DaysOfMLCode
 
-## Round 2 - 035/114 11/04/2020 - Saturday 
+## Round 1 - 035/114 11/04/2020 - Saturday 
 Studying linear algebra, again
 <br>
 <br>#100DaysOfMLCode
 
-## Round 2 - 034/114 10/04/2020 - Friday 
+## Round 1 - 034/114 10/04/2020 - Friday 
 Getting labs on qwiklabs
 <br>https://go.qwiklabs.com/spring-speedrun?linkId=86276553
 <br>#100DaysOfMLCode
@@ -75,14 +79,14 @@ Getting labs on qwiklabs
 
 
 
-## Round 2 - 033/114 09/04/2020 - Thursday 
+## Round 1 - 033/114 09/04/2020 - Thursday 
 New hackaton \o
 https://hackagr1d.com.br/
 <br>#100DaysOfCode
 <br>#100DaysOfMLCode
 <br><image  width="50%" height="50%" src="./img/2020-04-09_18-18-29.png">
 
-## Round 2 - 032/114 08/04/2020 - Wednesday 
+## Round 1 - 032/114 08/04/2020 - Wednesday 
 365 DataScience course for free until 15 april 2020!!
 Stay At Home Stay Safe, Improve your skills!!
 https://365datascience.com/pricing/?utm_medium=social&utm_source=youtube&utm_campaign=course-promo&utm_content=covid-19+response&utm_term=description&fbclid=IwAR2XUnTUaUhJOg-o-kZWtCq9mpk7DDhKlTIsWStTAkOW6Hufj4DRNi2km1k
