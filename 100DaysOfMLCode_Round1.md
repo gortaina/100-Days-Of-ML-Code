@@ -6,6 +6,9 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
 
+## Round 1 - 049/124 04/05/2020 - Monday 
+<br>Studying lifecycle in datascience
+<br>#100DaysOfMLCode
 
 ## Round 1 - 048/124 03/05/2020 - Sunday 
 <br>Pandas, Numpy, seaborn for read, stats and view = Part II
