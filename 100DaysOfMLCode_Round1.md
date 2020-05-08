@@ -5,9 +5,10 @@ My journey through 100 days of ML code.
 Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
-dfsdfunnamed.png
-## Round 1 - 051/124 07/05/2020 - Thursday 
-<br>Studying lifecycle in datascience, part II
+
+
+## Round 1 - 052/124 07/05/2020 - Thursday 
+<br>Learnig ML kit(Microsoft)
 <br>#100DaysOfMLCode
 
 ## Round 1 - 051/124 06/05/2020 - Wednesday 
