@@ -7,6 +7,15 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 
 
+## Round 1 - 054/124 09/05/2020 - Saturday 
+<br>Doing exercises of linear algebra   
+<br>#100DaysOfMLCode
+
+## Round 1 - 053/124 08/05/2020 - Friday
+<br>Playing hackaton on qwiklabs
+<br>#100DaysOfMLCode
+https://google.qwiklabs.com/games/921
+
 ## Round 1 - 052/124 07/05/2020 - Thursday 
 <br>Learnig ML kit(Microsoft)
 <br>#100DaysOfMLCode
