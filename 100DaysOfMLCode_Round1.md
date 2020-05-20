@@ -5,6 +5,12 @@ My journey through 100 days of ML code.
 Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
+#100DaysOfCode
+
+## Round 1 - 056/133 19/05/2020 - Tuesday
+Paused for a week, I had to work on night
+<br>#100DaysOfMLCode
+<br><image  width="50%" height="50%" src="./img/15659707052_4172a0a8ce_b.jpg">
 
 ## Round 1 - 055/124 10/05/2020 - Sunday 
 <br>Learning Azure platform   
