@@ -7,6 +7,10 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 
+## Round 1 - 057/133 20/05/2020 - Wednesday
+Solving problems on R and Power BI
+<br>#100DaysOfMLCode
+
 ## Round 1 - 056/133 19/05/2020 - Tuesday
 Paused for a week, I had to work on night
 <br>#100DaysOfMLCode
