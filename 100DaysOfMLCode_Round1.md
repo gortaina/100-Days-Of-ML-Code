@@ -7,6 +7,11 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 
+## Round 1 - 058/133 21/05/2020 - Thursday
+Reading R documentation about vroom to manage large datasets
+<br>#100DaysOfMLCode
+
+
 ## Round 1 - 057/133 20/05/2020 - Wednesday
 Solving problems on R and Power BI
 <br>#100DaysOfMLCode
