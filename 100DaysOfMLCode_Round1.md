@@ -7,6 +7,10 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 
+## Round 1 - 060/142 23/05/2020 - Sunday
+Studying The Data incubator lessons
+<br>#100DaysOfMLCode
+
 ## Round 1 - 059/142 22/05/2020 - Saturday
 Paused for 9 days, I had to work on night again.
 Using linear regression on Power BI
