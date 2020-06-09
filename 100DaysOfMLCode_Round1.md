@@ -7,7 +7,12 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 
-## Round 1 - 0631/142 03/06/2020 - Wednesday
+## Round 1 - 064/142 08/06/2020 - Wednesday
+Studying The Data incubator lessons
+<br>#100DaysOfMLCode
+
+
+## Round 1 - 063/142 03/06/2020 - Wednesday
 Studying The Data incubator lessons
 <br>#100DaysOfMLCode
 
