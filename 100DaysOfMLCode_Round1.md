@@ -7,6 +7,12 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 
+
+## Round 1 - 088/142 - 20/06/2020 - Saturday
+Solving algorithm on cognitive.ai
+<br>#100DaysOfCode
+
+
 ## Round 1 - 087/142 - from 01/05/2020 to 19/06/2020 - Saturday
 Scientific Computing and Python for Data Science course completed!
 <br>#100DaysOfCode
