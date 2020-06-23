@@ -7,6 +7,12 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 
+
+
+## Round 1 - 091/142 - 23/06/2020 - Tuesday
+Studying Apache Parquet with spark
+#100DaysOfMLCode
+
 ## Round 1 - 090/142 - 22/06/2020 - Monday
 Testing Pyspark on Virtual Box
 #100DaysOfMLCode
