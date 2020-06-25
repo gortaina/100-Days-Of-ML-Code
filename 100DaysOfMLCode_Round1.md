@@ -8,6 +8,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 
 
+## Round 1 - 093/142 - 25/06/2020 - Thursday
+Still studying StructType for apache spark
+#100DaysOfMLCode
+
+## Round 1 - 092/142 - 24/06/2020 - Wednesday
+Studying StructType for apache spark
+#100DaysOfMLCode
 
 ## Round 1 - 091/142 - 23/06/2020 - Tuesday
 Studying Apache Parquet with spark
