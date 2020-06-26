@@ -14,7 +14,7 @@ Spark Summit event
 <br>#100DaysOfMLCode
 <br><image  width="50%" height="50%" src="./img/2020-06-26_11-22-48.png">
 
-## Round 1 - 093/142 - 25/06/2020 - Thursday
+## Round 1 - 093/142 - 26/06/2020 - Thursday
 Still studying StructType for apache spark
 #100DaysOfMLCode
 
