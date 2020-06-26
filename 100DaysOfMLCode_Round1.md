@@ -29,7 +29,7 @@ cryptocurrency on Google Qwiklabs
 #100DaysOfMLCode
 
 ## Round 1 - 088/142 - 20/06/2020 - Saturday
-Solving algorithm on cognitive.ai
+Solving algorithm on cognitivo.ai
 <br>#100DaysOfMLCode
 
 
