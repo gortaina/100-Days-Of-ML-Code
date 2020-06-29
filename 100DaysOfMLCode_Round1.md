@@ -8,10 +8,14 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 
 
+## Round 1 - 097/142 - 28/06/2020 - Monday
+<br>RDD and Dataframe  on spark
+<br>#100DaysOfMLCode
+
+
 ## Round 1 - 096/142 - 27/06/2020 - Sunday
 <br>SQL Joins ons pandas Dataframe
 <br>#100DaysOfMLCode
-
 
 ## Round 1 - 095/142 - 26/06/2020 - Saturday
 <br>Solving problems with Numpy and Pandas
