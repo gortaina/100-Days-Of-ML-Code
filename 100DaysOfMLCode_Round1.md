@@ -7,29 +7,31 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 
+## Round 1 - 098/142 - 30/06/2020 - Tuesday
+<br>RDD and Dataframe  on spark - PArt II
+<br>#100DaysOfMLCode
 
-## Round 1 - 097/142 - 28/06/2020 - Monday
+## Round 1 - 097/142 - 29/06/2020 - Monday
 <br>RDD and Dataframe  on spark
 <br>#100DaysOfMLCode
 
-
-## Round 1 - 096/142 - 27/06/2020 - Sunday
+## Round 1 - 096/142 - 28/06/2020 - Sunday
 <br>SQL Joins ons pandas Dataframe
 <br>#100DaysOfMLCode
 
-## Round 1 - 095/142 - 26/06/2020 - Saturday
+## Round 1 - 095/142 - 27/06/2020 - Saturday
 <br>Solving problems with Numpy and Pandas
 <br>#100DaysOfMLCode
 
-## Round 1 - 094/142 - 25/06/2020 - Friday
+## Round 1 - 094/142 - 26/06/2020 - Thursday
+Still studying StructType for apache spark
+#100DaysOfMLCode
+
+## Round 1 - 093/142 - 25/06/2020 - Friday
 Spark Summit event
 <br>https://databricks.com/sparkaisummit/north-america-2020
 <br>#100DaysOfMLCode
 <br><image  width="50%" height="50%" src="./img/2020-06-26_11-22-48.png">
-
-## Round 1 - 093/142 - 26/06/2020 - Thursday
-Still studying StructType for apache spark
-#100DaysOfMLCode
 
 ## Round 1 - 092/142 - 24/06/2020 - Wednesday
 Studying StructType for apache spark
