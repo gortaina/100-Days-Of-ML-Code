@@ -7,6 +7,11 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 
+
+## Round 1 - 099/142 - 01/07/2020 - Wednesday
+<br>RDD and Dataframe  on spark - Part III
+<br>#100DaysOfMLCode
+
 ## Round 1 - 098/142 - 30/06/2020 - Tuesday
 <br>RDD and Dataframe  on spark - PArt II
 <br>#100DaysOfMLCode
