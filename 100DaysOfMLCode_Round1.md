@@ -8,6 +8,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 
 
+## Round 1 - 100/142 - 02/07/2020 - Thursday
+<br>Evaluation Metrics on Machine Learning
+<br>#100DaysOfMLCode
+
 ## Round 1 - 099/142 - 01/07/2020 - Wednesday
 <br>RDD and Dataframe  on spark - Part III
 <br>#100DaysOfMLCode
