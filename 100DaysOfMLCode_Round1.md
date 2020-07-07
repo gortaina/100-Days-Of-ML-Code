@@ -7,6 +7,10 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 
+## Round 1 - 104/142 - 06/07/2020 - Monday
+<br>Exploring NYC-trip duration dataset Part II
+<br>#100DaysOfMLCode
+
 ## Round 1 - 103/142 - 05/07/2020 - Sunday
 <br>Exploring NYC-trip duration dataset
 <br>#100DaysOfMLCode
