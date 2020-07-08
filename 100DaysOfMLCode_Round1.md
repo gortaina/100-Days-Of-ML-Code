@@ -7,6 +7,14 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 
+## Round 1 - 106/142 - 08/07/2020 - Tuesday
+<br>How create a Hadoop cluster in minutes with Google Cloud 
+<br>#100DaysOfMLCode #googlecloupplatform #GCP #BIGQUERY
+
+## Round 1 - 105/142 - 07/07/2020 - Monday
+<br>Exploring NYC-trip duration dataset Part III
+<br>#100DaysOfMLCode
+
 ## Round 1 - 104/142 - 06/07/2020 - Monday
 <br>Exploring NYC-trip duration dataset Part II
 <br>#100DaysOfMLCode
