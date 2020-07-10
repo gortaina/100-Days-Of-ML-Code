@@ -7,6 +7,13 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 
+Imagens
+
+## Round 1 - 108/142 - 10/07/2020 - Friday
+<br>Conquered!
+<br>Big Data Real-Time Analytics with Python and Spark
+<br>#100DaysOfMLCode 
+<br><image  width="50%" height="50%" src="./img/2020-07-10_12-38-48.png">
 
 ## Round 1 - 107/142 - 09/07/2020 - Thursday
 <br>Streaming with Spark - part I
