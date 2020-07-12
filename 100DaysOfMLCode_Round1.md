@@ -9,10 +9,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 1 - 110/142 - 12/07/2020 - Sunday
+<br>Dimensionality Reduction (Part II)
+<br>#100DaysOfMLCode 
+
 ## Round 1 - 109/142 - 11/07/2020 - Saturday
 <br>Dimensionality Reduction (Part I)
 <br>#100DaysOfMLCode 
-
  
 ## Round 1 - 108/142 - 10/07/2020 - Friday
 <br>Conquered!
