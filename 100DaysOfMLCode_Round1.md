@@ -8,6 +8,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 '''
+
+## Round 1 - 112/142 - 14/07/2020 - Tuesday
+<br>Apache Mahout on Hadoop - Part II
+<br>#100DaysOfMLCode 
+
 ## Round 1 - 111/142 - 13/07/2020 - Monday
 <br>Apache Mahout on Hadoop
 <br>#100DaysOfMLCode 
