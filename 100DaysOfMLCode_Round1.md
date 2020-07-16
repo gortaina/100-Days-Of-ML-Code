@@ -9,6 +9,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+
+## Round 1 - 114/142 - 16/07/2020 - Thursday
+<br> Learning analytics with knine
+<br>https://www.knime.com/knime-analytics-platform
+<br>#100DaysOfMLCode 
+<br><image  width="50%" height="50%" src="./img/2020-07-16_13-40-39.png">
+
 ## Round 1 - 113/142 - 15/07/2020 - Wednesday
 <br>Apache Mahout on Hadoop - Part III
 <br>#100DaysOfMLCode 
