@@ -8,7 +8,9 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 '''
-
+## Round 1 - 115/142 - 17/07/2020 - Friday
+<br> Learning analytics with knine Part II
+<br>#100DaysOfMLCode 
 
 ## Round 1 - 114/142 - 16/07/2020 - Thursday
 <br> Learning analytics with knine
