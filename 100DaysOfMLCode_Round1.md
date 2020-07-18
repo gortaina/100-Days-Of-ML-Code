@@ -8,6 +8,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 '''
+
+## Round 1 - 116/142 - 18/07/2020 - Saturday
+<br> Time for Qwiklabs!
+Looking to start your weekend with a win? Join the AI speedrun game by entering the code below. https://goo.gle/32uAP0A
+<br>#100DaysOfMLCode 
+<br><image  width="50%" height="50%" src="./img/EdJfUoRXkAIwh5a.png">
+
 ## Round 1 - 115/142 - 17/07/2020 - Friday
 <br> Learning analytics with knine Part II
 <br>#100DaysOfMLCode 
