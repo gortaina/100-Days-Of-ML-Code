@@ -11,7 +11,7 @@ Imagens
 
 
 ## Round 1 - 117/142 - 19/07/2020 - Sunday
-Migrating data using sqoob(Hadoop)
+Migrating data using sqoop(Hadoop)
 <br>#100DaysOfMLCode 
 
 ## Round 1 - 116/142 - 18/07/2020 - Saturday
