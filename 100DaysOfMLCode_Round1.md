@@ -9,6 +9,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+
+## Round 1 - 117/142 - 19/07/2020 - Sunday
+Migrating data using sqoob(Hadoop)
+<br>#100DaysOfMLCode 
+
 ## Round 1 - 116/142 - 18/07/2020 - Saturday
 <br> Time for Qwiklabs!
 Looking to start your weekend with a win? Join the AI speedrun game by entering the code below. https://goo.gle/32uAP0A
