@@ -8,11 +8,17 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 '''
-'' https://t.co/jMp4DsJcln?amp=1
+
+
+## Round 1 - 119/142 - 22/07/2020 - Tuesday
+Hive as SQL in Hadoop
+<br>#100DaysOfMLCode 
+<br><image  width="50%" height="50%" src="./img/hadoop-hive.png">
+
+
 ## Round 1 - 118/142 - 20/07/2020 - Monday
 Migrating data using sqoop(Hadoop) - Part II
 <br>#100DaysOfMLCode 
-
 
 ## Round 1 - 117/142 - 19/07/2020 - Sunday
 Migrating data using sqoop(Hadoop)
