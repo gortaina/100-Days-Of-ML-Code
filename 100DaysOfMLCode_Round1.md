@@ -10,7 +10,7 @@ Imagens
 '''
 
 
-## Round 1 - 119/142 - 22/07/2020 - Tuesday
+## Round 1 - 119/142 - 21/07/2020 - Tuesday
 Hive as SQL in Hadoop
 <br>#100DaysOfMLCode 
 <br><image  width="50%" height="50%" src="./img/hadoop-hive.png">
