@@ -8,13 +8,17 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 '''
+## Round 1 - 120/142 - 22/07/2020 - Wednesday
+Completed!  Data engineering with Hadoop and Spark
+#dsa
+<br>#100DaysOfMLCode 
+<br><image  width="50%" height="50%" src="./img/Engenharia_de_Dados_com_Hadoop_e_Spark_Data_science_academy.jpg">
 
 
 ## Round 1 - 119/142 - 21/07/2020 - Tuesday
 Hive as SQL in Hadoop
 <br>#100DaysOfMLCode 
 <br><image  width="50%" height="50%" src="./img/hadoop-hive.png">
-
 
 ## Round 1 - 118/142 - 20/07/2020 - Monday
 Migrating data using sqoop(Hadoop) - Part II
