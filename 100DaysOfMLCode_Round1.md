@@ -8,12 +8,18 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 '''
+
+## Round 1 - 121/142 - 23/07/2020 - Thursday
+"There are 2 types of people who hate Hackathons ~ 1: they've never participated in any or 2: they've never been successful in any" Danny Ma
+🤪🤪🤪 Register for the #BuildWithAI Hackathon 24-27th July 👉 https://hackmakers.com/
+<br>#100DaysOfMLCode 
+<br><image  width="50%" height="50%" src="./img/joasa.jpg">
+
 ## Round 1 - 120/142 - 22/07/2020 - Wednesday
 Completed!  Data engineering with Hadoop and Spark
 #dsa
 <br>#100DaysOfMLCode 
 <br><image  width="50%" height="50%" src="./img/Engenharia_de_Dados_com_Hadoop_e_Spark_Data_science_academy.jpg">
-
 
 ## Round 1 - 119/142 - 21/07/2020 - Tuesday
 Hive as SQL in Hadoop
