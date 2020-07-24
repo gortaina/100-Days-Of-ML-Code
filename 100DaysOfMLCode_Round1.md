@@ -9,6 +9,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+
+## Round 1 - 122/142 - 24/07/2020 - Friday
+Time do learn Apache Kafka
+<br>#100DaysOfMLCode 
+<br><image  width="50%" height="50%" src="./img/kafka-apis.png">
+ 
 ## Round 1 - 121/142 - 23/07/2020 - Thursday
 "There are 2 types of people who hate Hackathons ~ 1: they've never participated in any or 2: they've never been successful in any" Danny Ma
 🤪🤪🤪 Register for the #BuildWithAI Hackathon 24-27th July 👉 https://hackmakers.com/
