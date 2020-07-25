@@ -9,6 +9,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 1 - 123/142 - 25/07/2020 - Saturday
+Usage of Color in Data Visualization
+<br>#100DaysOfMLCode 
+<br><image  width="50%" height="50%" src="./img/0 (1).jpg">
 
 ## Round 1 - 122/142 - 24/07/2020 - Friday
 Time do learn Apache Kafka
