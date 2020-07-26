@@ -49,6 +49,7 @@ ___
 <h6>https://www.daxpatterns.com/</h6>
 <h6>https://www.r-graph-gallery.com/</h6>
 <h6>https://sqlitebrowser.org/</h6>
-<h6></h6>
-<h6></h6>
+<h6>https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0</h6>
+<h6>https://mathforum.org/library/drmath/view/69480.html</h6>
+
 
