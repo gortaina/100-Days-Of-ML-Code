@@ -9,6 +9,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 1 - 124/142 - 26/07/2020 - Sunday
+Discovering new types of mean : arithmetic, geometric, harmonic, quadratic
+<br>#100DaysOfMLCode 
+<br><image  width="50%" height="50%" src="./img/means_arithmetic_geometric_harmonic_quadratic.png">
+
 ## Round 1 - 123/142 - 25/07/2020 - Saturday
 Usage of Color in Data Visualization
 <br>#100DaysOfMLCode 
@@ -497,4 +502,4 @@ Files:
 <br>https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/file/day1/rf_model.rds
 <br>       
 #100DaysOfMLCode
- 
+
