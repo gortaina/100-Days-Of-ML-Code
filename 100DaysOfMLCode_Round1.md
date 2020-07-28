@@ -9,6 +9,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 1 - 126/142 - 28/07/2020 - Tuesday
+Descomplicating IA in 5 episodes  by IBM
+<br>#100DaysOfMLCode 
+<br><image  width="50%" height="50%" src="./img/IBM_IA_2020.png">
+
+
 ## Round 1 - 125/142 - 27/07/2020 - Monday - Dawn
 Chi-Square test
 <br>#100DaysOfMLCode 
