@@ -9,6 +9,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 1 - 125/142 - 27/07/2020 - Monday - Dawn
+Chi-Square test
+<br>#100DaysOfMLCode 
+<br><image  width="50%" height="50%" src="./img/chi-square-test.jpg">
+
+
 ## Round 1 - 124/142 - 26/07/2020 - Sunday
 Discovering new types of mean : arithmetic, geometric, harmonic, quadratic
 <br>#100DaysOfMLCode 
