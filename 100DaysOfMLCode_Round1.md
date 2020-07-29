@@ -10,7 +10,7 @@ Imagens
 '''
 
 ## Round 1 - 127/142 - 29/07/2020 - Wednesday
-Mounting a team for hackaton - Santander  Data Challenger
+Mounting a team for hackaton - Hackathon Santander Data Challenge
 <br>#100DaysOfMLCode 
 <br><image  width="50%" height="50%" src="./img/2020-07-29_12-41-41.png">
 
