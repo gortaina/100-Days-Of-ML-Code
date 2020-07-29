@@ -9,6 +9,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 1 - 127/142 - 29/07/2020 - Wednesday
+Mounting a team for hackaton - Santander  Data Challenger
+<br>#100DaysOfMLCode 
+<br><image  width="50%" height="50%" src="./img/2020-07-29_12-41-41.png">
+
+
 ## Round 1 - 126/142 - 28/07/2020 - Tuesday
 Descomplicating IA in 5 episodes  by IBM
 <br>#100DaysOfMLCode 
