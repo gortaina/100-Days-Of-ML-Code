@@ -9,6 +9,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 1 - 128/143 - 31/07/2020 - Friday
+ETL on M language - deduplicating data
+<br>#100DaysOfMLCode 
+
+
 ## Round 1 - 127/142 - 29/07/2020 - Wednesday
 Mounting a team for hackaton - Hackathon Santander Data Challenge
 <br>#100DaysOfMLCode 
