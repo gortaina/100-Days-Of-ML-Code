@@ -8,6 +8,14 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 '''
+## Round 1 - 130/143 - 02/07/2020 - Sunday
+data hack challenge santander - Coding - Part II
+<br>#100DaysOfMLCode 
+https://app.powerbi.com/view?r=eyJrIjoiYzA1YTcyYjQtZjAzNy00NDNkLTk1OWUtYTM4MzZmYWYzZDg3IiwidCI6IjRjZWFmZWRjLTNiNjItNGE0NS05ZDMxLTk4MWFlZTg3YzMzNyJ9&pageName=ReportSection95632ff61bd92e71e519
+
+## Round 1 - 129/143 - 01/07/2020 - Saturday
+data hack challenge santander - Coding - Part I
+<br>#100DaysOfMLCode 
 
 ## Round 1 - 128/143 - 31/07/2020 - Friday
 ETL on M language - deduplicating data
