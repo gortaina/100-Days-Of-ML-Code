@@ -8,6 +8,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 '''
+
+## Round 1 - 131/143 - 03/07/2020 - Monday
+View some notebook o colab(google)
+<br>#100DaysOfMLCode 
+
 ## Round 1 - 130/143 - 02/07/2020 - Sunday
 data hack challenge santander - Coding - Part II
 <br>#100DaysOfMLCode 
