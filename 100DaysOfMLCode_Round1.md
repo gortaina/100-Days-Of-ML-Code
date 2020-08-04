@@ -9,6 +9,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 1 - 132/143 - 04/07/2020 - Tuesday
+Studying complex SQL´s
+<br>#100DaysOfMLCode 
+
 ## Round 1 - 131/143 - 03/07/2020 - Monday
 View some notebook o colab(google)
 <br>#100DaysOfMLCode 
