@@ -9,20 +9,30 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
-## Round 1 - 132/143 - 04/07/2020 - Tuesday
+## Round 1 - 134/143 - 06/08/2020 - Thursday
+Result of data hack challenge santander 
+https://www.youtube.com/watch?v=nyZCWDF9SvA
+<br>#100DaysOfMLCode 
+
+## Round 1 - 133/143 - 05/08/2020 - Wednesday
+Studying complex SQL´s - Part II
+https://medium.com/@riccardoodone/the-love-hate-relationship-between-select-and-group-by-in-sql-4957b2a70229
+<br>#100DaysOfMLCode 
+
+## Round 1 - 132/143 - 04/08/2020 - Tuesday
 Studying complex SQL´s
 <br>#100DaysOfMLCode 
 
-## Round 1 - 131/143 - 03/07/2020 - Monday
+## Round 1 - 131/143 - 03/08/2020 - Monday
 View some notebook o colab(google)
 <br>#100DaysOfMLCode 
 
-## Round 1 - 130/143 - 02/07/2020 - Sunday
+## Round 1 - 130/143 - 02/08/2020 - Sunday
 data hack challenge santander - Coding - Part II
 <br>#100DaysOfMLCode 
 https://app.powerbi.com/view?r=eyJrIjoiYzA1YTcyYjQtZjAzNy00NDNkLTk1OWUtYTM4MzZmYWYzZDg3IiwidCI6IjRjZWFmZWRjLTNiNjItNGE0NS05ZDMxLTk4MWFlZTg3YzMzNyJ9&pageName=ReportSection95632ff61bd92e71e519
 
-## Round 1 - 129/143 - 01/07/2020 - Saturday
+## Round 1 - 129/143 - 01/08/2020 - Saturday
 data hack challenge santander - Coding - Part I
 <br>#100DaysOfMLCode 
 
