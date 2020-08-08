@@ -9,6 +9,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 1 - 136/143 - 08/08/2020 - Saturday
+Learn Kafka on kafkabr.com
+<br>#100DaysOfMLCode 
+
+
 ## Round 1 - 135/143 - 07/08/2020 - Friday
 Preparing for another hackaton - Behind the Code by IBM
 and getting a data project with thousand packages with 80Gb!
