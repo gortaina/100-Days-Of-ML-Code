@@ -9,10 +9,14 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 1 - 137/144 - 10/08/2020 - Monday
+My FX8320 is like zombie, slower walking but do the job for ML
+<br>#100DaysOfMLCode 
+<br><image  width="50%" height="50%" src="./img/Zombie-PC.jpg">
+
 ## Round 1 - 136/143 - 08/08/2020 - Saturday
 Learn Kafka on kafkabr.com
 <br>#100DaysOfMLCode 
-
 
 ## Round 1 - 135/143 - 07/08/2020 - Friday
 Preparing for another hackaton - Behind the Code by IBM
