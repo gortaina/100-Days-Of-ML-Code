@@ -9,6 +9,15 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 1 - 139/144 - 12/08/2020 - Wednesday
+Using dataflows for organize .xls
+<br>#100DaysOfMLCode 
+
+
+## Round 1 - 138/144 - 11/08/2020 - Tuesday
+Using onedrive for version control - PowerBi files
+<br>#100DaysOfMLCode 
+
 ## Round 1 - 137/144 - 10/08/2020 - Monday
 My FX8320 is like zombie, slower walking but do the job for ML
 <br>#100DaysOfMLCode 
