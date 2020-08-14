@@ -9,6 +9,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 1 - 140/144 - 13/08/2020 - Thursday
+Time to learn Pentaho Data Integration a.k.a.  Kettle
+<br>#100DaysOfMLCode 
+<br><image  width="50%" height="50%" src="./img/pentaho_download.png">
+
 ## Round 1 - 139/144 - 12/08/2020 - Wednesday
 Using dataflows for organize .xls
 <br>#100DaysOfMLCode 
