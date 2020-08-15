@@ -9,6 +9,15 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+
+## Round 1 - 142/144 - 15/08/2020 - Saturday
+Kafka course finisedh \o
+<br>#100DaysOfMLCode  #kafka
+
+## Round 1 - 141/144 - 14/08/2020 - Friday
+Kettle(Pentahoo) is more fast than M(Power BI) for ETL, but M is more user friendly
+<br>#100DaysOfMLCode #pentahoo
+
 ## Round 1 - 140/144 - 13/08/2020 - Thursday
 Time to learn Pentaho Data Integration a.k.a.  Kettle
 <br>#100DaysOfMLCode 
