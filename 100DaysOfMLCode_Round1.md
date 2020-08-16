@@ -9,6 +9,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 1 - 143/144 - 16/08/2020 - Sunday
+Learning golang
+<br>#100DaysOfMLCode  #golang
+
 
 ## Round 1 - 142/144 - 15/08/2020 - Saturday
 Kafka course finished \o
