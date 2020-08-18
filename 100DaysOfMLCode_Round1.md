@@ -9,6 +9,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 1 - 144/144 - 17/08/2020 - Monday
+End of Journey - Round1 mission completed!
+<br>#100DaysOfMLCode
+<br><image  width="50%" height="50%" src="./img/1_J6n2X-tq_Zf70cXdUQ0TsQ.jpeg">
+
 ## Round 1 - 143/144 - 16/08/2020 - Sunday
 Learning golang
 <br>#100DaysOfMLCode  #golang
