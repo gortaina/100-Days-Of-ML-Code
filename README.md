@@ -23,7 +23,8 @@ Follow me on twitter  https://twitter.com/gortaina and see my track on this jour
 
 | Track           | Status      |
 | :--------------: |:-----------:|
-|[Logbook Round 1 - Click here ](https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/100DaysOfMLCode_Round1.md) | In progress :construction: | 
+|[Logbook Round 1 - Click here ](https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/100DaysOfMLCode_Round1.md) | Complete :rocket: | 
+|[Logbook Round 1 - Click here ](https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/100DaysOfMLCode_Round2.md) | In Progress :construction: | 
 
 <br>
 <br>
