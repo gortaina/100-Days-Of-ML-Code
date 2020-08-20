@@ -1,4 +1,4 @@
-## Round 1 of 100DaysOfCode
+## Round 1 of 100DaysOfMLCode
 
 My journey through 100 days of ML code. 
 
