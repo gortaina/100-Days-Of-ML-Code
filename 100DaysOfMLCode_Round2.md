@@ -10,6 +10,9 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 2 - 2/100 - 21/08/2020 - Friday
+Using Kafka to read 1.7Tb data
+<br>#100DaysOfMLCode
 
 ## Round 2 - 1/100 - 20/08/2020 - Thursday
 Bjarne Stroustrup: C++ | Lex Fridman Podcast #48
