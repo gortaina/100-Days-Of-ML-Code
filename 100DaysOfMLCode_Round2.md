@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 '''
 
+## Round 2 - 3/100 - 22/08/2020 - Saturday
+Using Kafka to read 1.7Tb data - pART II
+<br>#100DaysOfMLCode
+
 ## Round 2 - 2/100 - 21/08/2020 - Friday
 Using Kafka to read 1.7Tb data
 <br>#100DaysOfMLCode
