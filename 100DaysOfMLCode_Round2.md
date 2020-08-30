@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 6/105 - 29/08/2020 - Saturday
+Using Heroku to deploy my app
+<br>#100DaysOfMLCode
+
 ## Round 2 - 5/100 - 24/08/2020 - Monday
 Using IA on powerapps
 <br>#100DaysOfMLCode
