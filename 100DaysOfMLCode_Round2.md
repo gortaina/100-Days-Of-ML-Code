@@ -8,7 +8,7 @@ Minha jornada do desafio 100 dias de código de Machine Learning
 emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
-'''
+''' 
 
 ## Round 2 - 5/100 - 24/08/2020 - Monday
 Using IA on powerapps
