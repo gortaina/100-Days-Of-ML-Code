@@ -10,6 +10,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 10/105 - 30/08/2020 to 02/08/2020 - Wednesday
+Working at nigth throw dawn to delivery a healthcare application. I need a rest
+<br>#100DaysOfMLCode
+
+
 ## Round 2 - 6/105 - 29/08/2020 - Saturday
 Using Heroku to deploy my app
 <br>#100DaysOfMLCode
