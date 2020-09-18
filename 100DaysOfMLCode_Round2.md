@@ -2,7 +2,7 @@
 ## Round 2 of 100DaysOfMLCode
 
 My journey through 100 days of ML code. 
-dd
+
 Minha jornada do desafio 100 dias de código de Machine Learning
 
 emoticon for commit https://gitmoji.carloscuesta.me/
@@ -10,10 +10,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 12/119 - 17/09/2020 - Thursday
+Deploying a postgre and trying to impor sqlite3 to it
+<br>#100DaysOfMLCode
+
 ## Round 2 - 11/119 - 16/09/2020 - Wednesday
 Got sick, covid19 suspect, but the code doesn´t stop.
 <br>#100DaysOfMLCode
-
 
 ## Round 2 - 10/105 - 30/08/2020 to 02/09/2020 - Wednesday
 Working at nigth throw dawn to delivery a healthcare application. I need a rest
