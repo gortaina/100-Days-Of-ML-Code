@@ -9,7 +9,7 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
-
+d
 ## Round 2 - 12/119 - 17/09/2020 - Thursday
 Deploying a postgre and trying to impor sqlite3 to it
 <br>#100DaysOfMLCode
