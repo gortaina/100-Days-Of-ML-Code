@@ -9,7 +9,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
-d
+
+## Round 2 - 13/119 - 18/09/2020 - Friday
+R$60(USD 10) for 12 hours using a Postgree! WOW
+<br>#100DaysOfMLCode
+
 ## Round 2 - 12/119 - 17/09/2020 - Thursday
 Deploying a postgre and trying to impor sqlite3 to it
 <br>#100DaysOfMLCode
