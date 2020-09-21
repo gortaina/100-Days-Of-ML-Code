@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 15/119 - 20/09/2020 - Sunday
+Rising a Postgre db on unbutu
+<br>#100DaysOfMLCode
+
 ## Round 2 - 14/119 - 19/09/2020 - Saturday
 Using Google Cloud for a cloupe days, the billing scare me! R$ 145 for a database
 <br>#100DaysOfMLCode
