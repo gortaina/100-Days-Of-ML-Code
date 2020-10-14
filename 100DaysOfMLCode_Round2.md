@@ -13,7 +13,9 @@ Imagens
 I was paused this track due a night job, now I back again.
 Studying piramidal constructor
 <br>#100DaysOfMLCode
-<img alt="100DaysOfCode" src="http://i3.ytimg.com/vi/uTxRF5ag27A/PyramidOfNumbers.png"  width="50%" heigth="50%"/>
+<br>
+<img alt="100DaysOfCode" src="./img/PyramidOfNumbers.png"  width="50%" heigth="50%"/>
+<br>
 https://javaconceptoftheday.com/how-to-create-pyramid-of-numbers-in-java/
 
 ## Round 2 - 15/119 - 20/09/2020 - Sunday
