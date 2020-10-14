@@ -9,6 +9,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+## Round 2 - 16/142 - 14/10/2020 - Wednesday
+I was paused this track due a night job, now I back again.
+Studying piramidal constructor
+<br>#100DaysOfMLCode
 
 ## Round 2 - 15/119 - 20/09/2020 - Sunday
 Rising a Postgre db on unbutu
