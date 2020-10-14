@@ -13,6 +13,8 @@ Imagens
 I was paused this track due a night job, now I back again.
 Studying piramidal constructor
 <br>#100DaysOfMLCode
+<img alt="100DaysOfCode" src="http://i3.ytimg.com/vi/uTxRF5ag27A/PyramidOfNumbers.png"  width="50%" heigth="50%"/>
+https://javaconceptoftheday.com/how-to-create-pyramid-of-numbers-in-java/
 
 ## Round 2 - 15/119 - 20/09/2020 - Sunday
 Rising a Postgre db on unbutu
@@ -61,5 +63,5 @@ Using Kafka to read 1.7Tb data
 ## Round 2 - 1/100 - 20/08/2020 - Thursday
 Bjarne Stroustrup: C++ | Lex Fridman Podcast #48
 https://www.youtube.com/watch?v=uTxRF5ag27A
-<img alt="100DaysOfCode" src="http://i3.ytimg.com/vi/uTxRF5ag27A/maxresdefault.jpg"  width="50%" heigth="50%"/>
+<img alt="100DaysOfCode" src="./img/maxresdefault.jpg"  width="50%" heigth="50%"/>
 <br>#100DaysOfMLCode
