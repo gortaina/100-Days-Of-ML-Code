@@ -9,6 +9,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+
+## Round 2 - 17/142 - 15/10/2020 - Thursday
+Mounting a VM with 50Gb of data and pipelines: sqlite -> postgre -> mongoDb -> Spark
+<br>#100DaysOfMLCode
+
 ## Round 2 - 16/142 - 14/10/2020 - Wednesday
 I was paused this track due a night job, now I back again.
 Studying piramidal constructor
