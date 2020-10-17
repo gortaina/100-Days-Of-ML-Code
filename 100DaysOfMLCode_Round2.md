@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 18/142 - 16/10/2020 - Friday
+WQU Machine learning class -https://www.youtube.com/watch?v=9J6FNvil6Gw&feature=youtu.be&ab_channel=WQUDataScienceModule
+<br>#100DaysOfMLCode
+
 ## Round 2 - 17/142 - 15/10/2020 - Thursday
 Mounting a VM with 50Gb of data and pipelines: sqlite -> postgre -> mongoDb -> Spark
 <br>#100DaysOfMLCode
