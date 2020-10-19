@@ -11,8 +11,8 @@ Imagens
 ''' 
 
 ## Round 2 - 20/142 - 18/10/2020 - Sunday
-Postgre - with 100K record in JSONB - return in 0.5 sec
-Postgre - with 100M record in JSONB - return in 10 minutes!!!
+Postgre - with 100K records in JSONB - return in 0.5 sec
+Postgre - with 100M records in JSONB - return in 10 minutes!!!
  What a difference!
 <br>#100DaysOfMLCode
 
