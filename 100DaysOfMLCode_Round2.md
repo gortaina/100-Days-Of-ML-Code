@@ -10,6 +10,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 20/142 - 18/10/2020 - Sunday
+Postgre - with 100K record in JSONB - return in 0.5 sec
+Postgre - with 100M record in JSONB - return in 10 minutes!!!
+ What a difference!
+<br>#100DaysOfMLCode
+
 ## Round 2 - 19/142 - 17/10/2020 - Saturday
 WQU Machine learning  - solving exercises
 <br>#100DaysOfMLCode
