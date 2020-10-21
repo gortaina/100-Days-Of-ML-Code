@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 22/142 - 20/10/2020 - Sunday
+Configuring new dev system on ubuntu
+<br>#100DaysOfMLCode
+
 ## Round 2 - 21/142 - 19/10/2020 - Monday
 Fixing bug in my git repository
 <br>#100DaysOfMLCode
