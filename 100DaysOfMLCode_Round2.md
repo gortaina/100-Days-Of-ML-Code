@@ -10,7 +10,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-## Round 2 - 22/142 - 20/10/2020 - Sunday
+
+## Round 2 - 22/142 - 21/10/2020 - Wednesday
+Solving leetcode problems
+<br>#100DaysOfMLCode
+
+
+## Round 2 - 22/142 - 20/10/2020 - Tuesday
 Configuring new dev system on ubuntu
 <br>#100DaysOfMLCode
 
