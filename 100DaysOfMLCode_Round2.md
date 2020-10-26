@@ -11,10 +11,13 @@ Imagens
 ''' 
 
 
+## Round 2 - 23/147 - 26/10/2020 - Monday
+Solving leetcode problems II
+<br>#100DaysOfMLCode
+
 ## Round 2 - 22/142 - 21/10/2020 - Wednesday
 Solving leetcode problems
 <br>#100DaysOfMLCode
-
 
 ## Round 2 - 22/142 - 20/10/2020 - Tuesday
 Configuring new dev system on ubuntu
