@@ -10,6 +10,9 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 24/147 - 27/10/2020 - Tuesday
+Improving perfomance on postgre using GIN/GIST
+<br>#100DaysOfMLCode
 
 ## Round 2 - 23/147 - 26/10/2020 - Monday
 Solving leetcode problems II
