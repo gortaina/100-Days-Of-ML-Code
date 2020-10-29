@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+Round 2 - 25/147 - 28/10/2020 - Wednesday
+WQU Machine learning - solving exercises o/
+#100DaysOfMLCode
+
 ## Round 2 - 24/147 - 27/10/2020 - Tuesday
 Improving perfomance on postgre using GIN/GIST
 <br>#100DaysOfMLCode
