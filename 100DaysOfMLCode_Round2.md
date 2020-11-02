@@ -10,7 +10,7 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-## Round 2 - 29/148 - 31/10/2020 though 02/11/2020 - Monday
+## Round 2 - 29/148 - 31/10/2020 through 02/11/2020 - Monday 
 Optimizing Postgres text search
 #100DaysOfMLCode
 
