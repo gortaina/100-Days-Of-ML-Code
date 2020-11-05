@@ -10,6 +10,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 31/148 - 04/11/2020 - Wednesday 
+Mounting graphs 
+<br>
+<img alt="100DaysOfCode" src="./img/gustochart1.jpg"  width="50%" heigth="50%"/>
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 30/148 - 03/11/2020 - Tuesday 
 WQU Machine learning - solving exercises II - o/
 #100DaysOfMLCode
