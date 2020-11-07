@@ -10,13 +10,23 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 34/148 - 07/11/2020 - Saturday 
+WQU Machine learning - solving exercises IV
+<br>
+#100DaysOfMLCode
+
+## Round 2 - 33/148 - 06/11/2020 - Friday 
+WQU Machine learning - solving exercises |||
+<br>
+#100DaysOfMLCode
+
+
 ## Round 2 - 32/148 - 05/11/2020 - Thursday 
 Security in ML is very important!!! Data security.
 <br>
 https://www.bleepingcomputer.com/news/security/brazils-court-system-under-massive-ransomexx-ransomware-attack/
 <br>
 #100DaysOfMLCode
-
 
 ## Round 2 - 31/148 - 04/11/2020 - Wednesday 
 Mounting graphs 
