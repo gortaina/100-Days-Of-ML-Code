@@ -9,6 +9,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+
+## Round 2 - 37/148 - 10/11/2020 - Tuesday 
+WQU Machine learning - solving exercises VII
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 36/148 - 09/11/2020 - Monday 
 WQU Machine learning - solving exercises VI
 <br>
