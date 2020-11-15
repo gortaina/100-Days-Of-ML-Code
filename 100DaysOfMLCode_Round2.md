@@ -10,6 +10,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 42/148 - 15/11/2020 - Sunday 
+WQU Machine learning - finished all exercises
+Getting start about infra for ML
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 41/148 - 14/11/2020 - Saturday 
 WQU Machine learning - solving NLP exercises XI 
 <br>
