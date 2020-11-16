@@ -10,6 +10,14 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 43/148 - 16/11/2020 - Monday 
+PODMAN or DOCKER:
+-infra for ML
+<br>
+#100DaysOfMLCode
+
+
+
 ## Round 2 - 42/148 - 15/11/2020 - Sunday 
 WQU Machine learning - finished all exercises
 Getting start about infra for ML
