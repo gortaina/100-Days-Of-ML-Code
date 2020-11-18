@@ -17,6 +17,16 @@ PODMAN or DOCKER:
 #100DaysOfMLCode
 
 
+## Round 2 - 44/148 - 17/11/2020 - Tuesay 
+Structured Thinking for Data Science II
+<br>
+#100DaysOfMLCode
+
+
+## Round 2 - 43/148 - 16/11/2020 - Monday 
+Structured Thinking for Data Science
+<br>
+#100DaysOfMLCode
 
 ## Round 2 - 42/148 - 15/11/2020 - Sunday 
 WQU Machine learning - finished all exercises
