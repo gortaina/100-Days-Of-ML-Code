@@ -10,21 +10,24 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-## Round 2 - 43/148 - 16/11/2020 - Monday 
-PODMAN or DOCKER:
--infra for ML
+## Round 2 - 46/148 - 19/11/2020 - Thursday 
+Structured Query Language (SQL) for Data Science
 <br>
 #100DaysOfMLCode
 
-
-## Round 2 - 44/148 - 17/11/2020 - Tuesay 
+## Round 2 - 45/148 - 18/11/2020 - Tuesay 
 Structured Thinking for Data Science II
 <br>
 #100DaysOfMLCode
 
+## Round 2 - 44/148 - 17/11/2020 - Monday 
+Structured Thinking for Data Science
+<br>
+#100DaysOfMLCode
 
 ## Round 2 - 43/148 - 16/11/2020 - Monday 
-Structured Thinking for Data Science
+PODMAN or DOCKER:
+-infra for ML
 <br>
 #100DaysOfMLCode
 
