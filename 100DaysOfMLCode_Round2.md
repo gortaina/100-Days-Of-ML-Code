@@ -10,6 +10,14 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+## Round 2 - 47/148 - 20/11/2020 - Friday 
+Setting VM for Deep Learning
+https://console.paperspace.com/signup
+<br>
+#100DaysOfMLCode
+
+
 ## Round 2 - 46/148 - 19/11/2020 - Thursday 
 Structured Query Language (SQL) for Data Science
 <br>
