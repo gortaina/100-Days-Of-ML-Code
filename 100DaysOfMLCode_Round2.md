@@ -11,6 +11,13 @@ Imagens
 ''' 
 
 
+## Round 2 - 48/148 - 21/11/2020 - Saturday 
+Setting VM for Deep Learning II
+google colab
+<br>
+#100DaysOfMLCode
+
+
 ## Round 2 - 47/148 - 20/11/2020 - Friday 
 Setting VM for Deep Learning
 https://console.paperspace.com/signup
