@@ -10,6 +10,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 51/149 - 24/11/2020 - Tuesday 
+Started twitter sentiment analysis - yeah you saw this many times, kkkk
+defying gravity baby!
+<br>
+#100DaysOfMLCode
+
+
 ## Round 2 - 50/149 - 23/11/2020 - Monday 
 My analysis on NYC Taxi Trip Duration Dataset was aproved \o
 rocket baby!
