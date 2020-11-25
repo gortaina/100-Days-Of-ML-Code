@@ -10,6 +10,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 52/149 - 25/11/2020 - Wednesday 
+Age Prediction Hackaton
+https://datahack.analyticsvidhya.com/contest/age-prediction/
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 51/149 - 24/11/2020 - Tuesday 
 Started twitter sentiment analysis - yeah you saw this many times, kkkk
 defying gravity baby!
