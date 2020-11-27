@@ -12,7 +12,6 @@ Imagens
 
 ## Round 2 - 54/149 - 27/11/2020 - Friday 
 Solving exercises with clustering
-https://www.linuxtips.io/
 <br>
 #100DaysOfMLCode
 
