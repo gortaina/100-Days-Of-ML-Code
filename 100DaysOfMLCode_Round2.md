@@ -10,12 +10,18 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 54/149 - 27/11/2020 - Friday 
+Solving exercises with clustering
+https://www.linuxtips.io/
+<br>
+#100DaysOfMLCode
+
+
 ## Round 2 - 53/149 - 26/11/2020 - Thursday 
 Completed - Infra-as-code by #linuxtips
 https://www.linuxtips.io/
 <br>
 #100DaysOfMLCode
-
 
 ## Round 2 - 52/149 - 25/11/2020 - Wednesday 
 Age Prediction Hackaton
