@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 56/151 - 01/12/2020 - Tuesday 
+Solving ML exercises from Vidhya Analytics site
+#100DaysOfMLCode
+
 ## Round 2 - 57/151 - 30/11/2020 - Monday 
 I´m half recovered!
 <br>
