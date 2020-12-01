@@ -11,7 +11,7 @@ Imagens
 ''' 
 
 ## Round 2 - 58/151 - 01/12/2020 - Tuesday 
-Solving ML exercises from Vidhya Analytics site
+Solving ML exercises from Analytics Vidhya site
 #100DaysOfMLCode
 
 ## Round 2 - 57/151 - 30/11/2020 - Monday 
