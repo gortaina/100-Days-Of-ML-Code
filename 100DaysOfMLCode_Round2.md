@@ -10,6 +10,21 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 57/151 - 30/11/2020 - Monday 
+I´m half recovered!
+<br>
+#100DaysOfMLCode
+
+## Round 2 - 56/149 - 29/11/2020 - Sunday 
+Sick yeat, may be covid :(, all day in bed
+<br>
+#100DaysOfMLCode
+
+## Round 2 - 55/149 - 28/11/2020 - Saturday 
+I got sick, may be covid :(
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 54/149 - 27/11/2020 - Friday 
 Solving exercises with clustering
 <br>
