@@ -10,6 +10,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 59/151 - 02/12/2020 - Wednesday 
+Take care of your data! Don´t save user/password in base64 in your HTML, *.js, *.PNG.
+<br>
+https://www.engadget.com/brazil-covid-19-patients-personal-data-exposed-215910641.html
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 58/151 - 01/12/2020 - Tuesday 
 Solving ML exercises from Analytics Vidhya site
 #100DaysOfMLCode
