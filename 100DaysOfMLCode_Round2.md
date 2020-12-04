@@ -10,6 +10,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 60/151 - 03/12/2020 - Thursday 
+Docker loses support on Kubernetes, wow!
+<br>
+#100DaysOfMLCode
+
+
 ## Round 2 - 59/151 - 02/12/2020 - Wednesday 
 Take care of your data! Don´t save user/password in base64 in your HTML, *.js, *.PNG.
 <br>
