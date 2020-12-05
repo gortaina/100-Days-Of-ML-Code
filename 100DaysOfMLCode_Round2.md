@@ -11,6 +11,11 @@ Imagens
 ''' 
 
 
+## Round 2 - 62/151 - 05/12/2020 - Saturday 
+Solving Kaggle lessons II
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 61/151 - 04/12/2020 - Friday 
 Solving Kaggle lessons
 <br>
