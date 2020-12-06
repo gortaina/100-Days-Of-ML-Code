@@ -10,6 +10,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 63/151 - 06/12/2020 - Sunday 
+Finished \o
+AI and ML for Business Leaders Course by Analytics Viddhya
+<br>
+#100DaysOfMLCode #Analytics Viddhya
 
 ## Round 2 - 62/151 - 05/12/2020 - Saturday 
 Solving Kaggle lessons II
