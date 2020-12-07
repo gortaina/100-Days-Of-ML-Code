@@ -10,6 +10,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 64/151 - 07/12/2020 - Monday 
+Finished \o
+Introduction to Data Science V1.0 Course by Analytics Vidhya
+<br>
+#100DaysOfMLCode #AnalyticsVidhya
+
 ## Round 2 - 63/151 - 06/12/2020 - Sunday 
 Finished \o
 AI and ML for Business Leaders Course by Analytics Vidhya
