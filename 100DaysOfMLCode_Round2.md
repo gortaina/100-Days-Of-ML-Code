@@ -10,6 +10,16 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+
+## Round 2 - 65/151 - 08/12/2020 - Tuesday 
+Git Universe is OPEN!
+<br>
+https://githubuniverse.com/schedule/?utm_source=announcement&utm_medium=email&utm_campaign=amer-githubuniverse-tmrw
+<br>
+#100DaysOfMLCode #github
+
+
 ## Round 2 - 64/151 - 07/12/2020 - Monday 
 Finished \o
 Introduction to Data Science V1.0 Course by Analytics Vidhya
