@@ -11,6 +11,13 @@ Imagens
 ''' 
 
 
+## Round 2 - 66/151 - 09/12/2020 - Wednesday 
+Fisnished! Applied Data Science II: Machine Learning & Statistical Analysis (with honors)
+<br>
+<img alt="100DaysOfCode" src="./img/WQU_Credly_DataScience2_WithHonors.png"  width="50%" heigth="50%"/>
+<br>
+#100DaysOfMLCode #github
+
 
 ## Round 2 - 65/151 - 08/12/2020 - Tuesday 
 Git Universe is OPEN!
