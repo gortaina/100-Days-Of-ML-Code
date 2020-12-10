@@ -10,13 +10,19 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 67/151 - 10/12/2020 - Thursday
+Git Universe, last day
+<br>
+https://githubuniverse.com/schedule/?utm_source=announcement&utm_medium=email&utm_campaign=amer-githubuniverse-day3
+<br>
+#100DaysOfMLCode #github
 
 ## Round 2 - 66/151 - 09/12/2020 - Wednesday 
 Finished! Applied Data Science II: Machine Learning & Statistical Analysis (with honors)
 <br>
 <img alt="100DaysOfCode" src="./img/WQU_Credly_DataScience2_WithHonors.png"  width="50%" heigth="50%"/>
 <br>
-#100DaysOfMLCode #github
+#100DaysOfMLCode #wqu
 
 
 ## Round 2 - 65/151 - 08/12/2020 - Tuesday 
