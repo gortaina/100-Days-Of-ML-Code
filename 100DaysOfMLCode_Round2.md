@@ -10,6 +10,22 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 70/151 - 13/12/2020 - Sunday
+Working on search engine for React/Node
+<br>
+#100DaysOfMLCode
+
+## Round 2 - 69/151 - 12/12/2020 - Saturday
+twisted the spine :(, no code today, all day in bed
+<br>
+#100DaysOfMLCode #github
+
+## Round 2 - 68/151 - 11/12/2020 - Friday
+Re: Invent by AWS
+<br>
+#100DaysOfMLCode #github
+
+
 ## Round 2 - 67/151 - 10/12/2020 - Thursday
 Git Universe, last day
 <br>
