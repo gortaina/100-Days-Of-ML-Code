@@ -12,9 +12,10 @@ Imagens
 
 ## Round 2 - 71/151 - 14/12/2020 - Monday
 Finished Terraform course  by LinuxTips
-<img alt="100DaysOfCode" src="./img/16079821125.png"  width="50%" heigth="50%"/>
 <br>
 #100DaysOfMLCode
+<br>
+<img alt="100DaysOfCode" src="./img/16079821125.png"  width="50%" heigth="50%"/>
 
 ## Round 2 - 70/151 - 13/12/2020 - Sunday
 Working on search engine for React/Node
