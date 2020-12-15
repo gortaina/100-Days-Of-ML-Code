@@ -10,6 +10,14 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 72/151 - 15/12/2020 - Tuesday
+Finished Ansible course  by LinuxTips
+<br>
+#100DaysOfMLCode
+<br>
+<img alt="100DaysOfCode" src="./img/160798213615.png"  width="50%" heigth="50%"/>
+
+
 ## Round 2 - 71/151 - 14/12/2020 - Monday
 Finished Terraform course  by LinuxTips
 <br>
