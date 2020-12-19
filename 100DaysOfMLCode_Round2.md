@@ -11,7 +11,7 @@ Imagens
 ''' 
 
 ## Round 2 - 75/151 - 18/12/2020 - Friday
-Deliverying another ML aplication!
+Delivering another ML application!
 <br>
 #100DaysOfMLCode
 
