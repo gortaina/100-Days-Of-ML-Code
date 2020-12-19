@@ -10,7 +10,7 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-## Round 2 - 76/151 - 19/12/2020 - Saturdday
+## Round 2 - 76/151 - 19/12/2020 - Saturday
 Solving exercises on analytics.
 <br>
 #100DaysOfMLCode
