@@ -10,6 +10,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 75/151 - 18/12/2020 - Friday
+Deliverying another ML aplication!
+<br>
+#100DaysOfMLCode
+
 
 ## Round 2 - 74/151 - 17/12/2020 - Thursday
 Finished Packer course  by LinuxTips
