@@ -9,6 +9,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+
+## Round 2 - 78/151 - 21/12/2020 - Monday
+Delivering new ML System on PROD \o.
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 77/151 - 20/12/2020 - Sunday
 Solving exercises on analytics ||
 <br>
