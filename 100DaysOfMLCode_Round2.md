@@ -10,6 +10,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 80/151 - 23/12/2020 - Wednesday
+Time to do a fit/predict for 2020!
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 79/151 - 22/12/2020 - Tuesday
 Retake Terraform course by linuxtips
 <br>
