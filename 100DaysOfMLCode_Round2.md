@@ -10,6 +10,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 81/151 - 24/12/2020 - Thursday
+#100DaysOfMLCode
+<br>
+<img alt="100DaysOfCode" src="./img/0e67d24e-d5de-4631-ab2e-d90a71513266.jpg"  width="50%" heigth="50%"/>
+
 ## Round 2 - 80/151 - 23/12/2020 - Wednesday
 Time to do a fit/predict for 2020!
 <br>
