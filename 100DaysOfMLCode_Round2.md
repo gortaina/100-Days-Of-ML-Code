@@ -10,6 +10,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+## Round 2 - 82/151 - 25/12/2020 - Friday
+Qwiklabs!
+https://go.qwiklabs.com/holiday-speedrun
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 81/151 - 24/12/2020 - Thursday
 #100DaysOfMLCode
 <br>
