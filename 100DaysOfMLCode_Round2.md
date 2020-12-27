@@ -10,6 +10,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 83/151 - 26/12/2020 - Saturday
+SVM algorithm exercises
+<br>
+#100DaysOfMLCode
+
 
 ## Round 2 - 82/151 - 25/12/2020 - Friday
 Qwiklabs!
