@@ -11,7 +11,7 @@ Imagens
 ''' 
 
 ## Round 2 - 85/151 - 28/12/2020 - Monday
-Optimizing text search in Postgre
+Optimizing text search in PostgreSQL
 <br>
 #100DaysOfMLCode
 
