@@ -10,6 +10,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 85/151 - 28/12/2020 - Monday
+Optimizing text search in Postgre
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 84/151 - 27/12/2020 - Sunday
 SVM algorithm exercises II
 <br>
