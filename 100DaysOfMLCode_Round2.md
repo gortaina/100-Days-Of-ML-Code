@@ -10,6 +10,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+## Round 2 - 86/151 - 29/12/2020 - Tuesday
+Text search with Sonic - Node.js
+<br>
+#100DaysOfMLCode
+
+
 ## Round 2 - 85/151 - 28/12/2020 - Monday
 Optimizing text search in PostgreSQL
 <br>
