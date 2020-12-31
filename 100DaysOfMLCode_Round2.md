@@ -25,6 +25,7 @@ Dengue 🦟, covid 🦠, economic crisis💸, etc.<br>
 -Substitute boss and supervisor of interns (I like that a lot!) 💻<br>
 And thank you very much to you who helped me get here directly or indirectly!<br>
 Thanks a lot! 🙏🙏🙏<br>
+Happy New Year!
 <br>
 #100DaysOfMLCode
 <br>
