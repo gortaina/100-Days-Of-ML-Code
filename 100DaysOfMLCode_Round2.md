@@ -10,6 +10,27 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+## Round 2 - 87/151 - 30/12/2020 - Wednesday
+Dengue 🦟, covid 🦠, economic crisis💸, etc.
+"I am Brazilian, and I never give up."🚀🚀🚀 :
+.
+-09 bootcamps.
+-10 Hackatons.
+-#100DaysofCode100 tracked 3 times, I´m in fourth time.
+-03 major systems developed for the cloud production and on time.
+-Completion of long-term courses: Data Analysis, Data Architecture, DevOps and Cloud Computing. 
+-Implementation of more than 30 pipelines. 
+-Creation of the Data Science department. 
+-Substitute boss and supervisor of interns (I like that a lot!) 💻
+And thank you very much to you who helped me get here directly or indirectly!
+Thanks a lot! 🙏🙏🙏
+
+#100DaysOfMLCode
+<br>
+<img alt="100DaysOfCode" src="./img/1609263647367.jpg"  width="50%" heigth="50%"/>
+
+
 ## Round 2 - 87/151 - 30/12/2020 - Wednesday
 Text search with Sonic - Node.js, part II
 <br>
