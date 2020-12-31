@@ -11,7 +11,7 @@ Imagens
 ''' 
 
 
-## Round 2 - 87/151 - 30/12/2020 - Wednesday
+## Round 2 - 88/151 - 31/12/2020 - Thursday
 Dengue 🦟, covid 🦠, economic crisis💸, etc.<br>
 "I am Brazilian, and I never give up."🚀🚀🚀 :<br>
 .
