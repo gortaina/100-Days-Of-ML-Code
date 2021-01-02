@@ -9,6 +9,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+## Round 2 - 89/151 - 01/01/2021 - Friday
+Happy new year!
+#100DaysOfMLCode
+<br>
+<img alt="100DaysOfCode" src="./img/1609263647367.jpg"  width="50%" heigth="50%"/>
+
 
 
 ## Round 2 - 88/151 - 31/12/2020 - Thursday
