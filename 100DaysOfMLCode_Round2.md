@@ -11,9 +11,10 @@ Imagens
 ''' 
 ## Round 2 - 89/151 - 01/01/2021 - Friday
 Happy new year!
+<br>
 #100DaysOfMLCode
 <br>
-<img alt="100DaysOfCode" src="./img/1609263647367.jpg"  width="50%" heigth="50%"/>
+<img alt="100DaysOfCode" src="./img/b240c681-4c43-4ed4-8472-e21c4b4d.gif"  width="50%" heigth="50%"/>
 
 
 
