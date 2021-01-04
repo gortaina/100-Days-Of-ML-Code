@@ -10,6 +10,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 92/151 - 04/01/2021 -  Monday
+Learning Golang - part III
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 91/151 - 03/01/2021 -  Sunday
 Learning Golang - part II
 <br>
