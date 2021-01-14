@@ -10,6 +10,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 101/151 - 13/01/2021 -  Wednesday
+Using ML in Power BI Report
+<br>
+#100DaysOfMLCode
+
+
 ## Round 2 - 100/151 - 12/01/2021 -  Tuesday
 Learning Golang - part XI
 <br>
