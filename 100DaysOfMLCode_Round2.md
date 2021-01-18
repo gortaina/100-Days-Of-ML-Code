@@ -10,6 +10,28 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+## Round 2 - 105/151 - 17/01/2021 -  Sunday
+Silence Code III
+<br>
+#100DaysOfMLCode
+
+
+## Round 2 - 104/151 - 16/01/2021 -  Saturday
+Silence Code II
+<br>
+#100DaysOfMLCode
+
+## Round 2 - 103/151 - 15/01/2021 -  Friday
+Silence Code
+<br>
+#100DaysOfMLCode
+
+## Round 2 - 102/151 - 14/01/2021 -  Thursday
+Using ML in Power BI Report II
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 101/151 - 13/01/2021 -  Wednesday
 Using ML in Power BI Report
 <br>
