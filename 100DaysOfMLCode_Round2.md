@@ -10,6 +10,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+## Round 2 - 107/151 - 19/01/2021 -  Thuesday
+Studying Pandas
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 106/151 - 18/01/2021 -  Monday
 Silence Code IV
 <br>
