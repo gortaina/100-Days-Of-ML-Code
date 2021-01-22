@@ -10,6 +10,17 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 110/151 - 22/01/2021 -  Friday
+Automate functions with PowerShell III
+<br>
+#100DaysOfMLCode
+
+
+## Round 2 - 109/151 - 21/01/2021 -  Thursday
+Automate functions with PowerShell II
+<br>
+#100DaysOfMLCode
+
 ## Round 2 - 108/151 - 20/01/2021 -  Wednesday
 Automate functions with PowerShell
 <br>
