@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 119/151 - 28/01/2021 to 31/01/2021 -  Sunday
+Studying for Exams in ML<br>
+#100DaysOfMLCode
+
 ## Round 2 - 116/151 - 23/01/2021 to 28/01/2021 -  Thursday
 PowerBI Administration and ML functions Course.
 Six days of intense learning!
