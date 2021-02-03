@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 121/151 - 02/02/2021 -  Tuesday
+Studying for Exams in ML - Part IIi<br>
+#100DaysOfMLCode
+
 ## Round 2 - 120/151 - 01/02/2021 -  Monday
 Studying for Exams in ML - Part II<br>
 #100DaysOfMLCode
