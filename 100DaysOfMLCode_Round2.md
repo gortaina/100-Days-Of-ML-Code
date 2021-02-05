@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 123/151 - 04/02/2021 -  Thursday
+Studying BERT - Part II<br>
+#100DaysOfMLCode
+
 ## Round 2 - 122/151 - 03/02/2021 -  Wednesday
 Studying BERT<br>
 #100DaysOfMLCode
