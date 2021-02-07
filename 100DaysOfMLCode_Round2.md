@@ -10,6 +10,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+## Round 2 - 126/151 - 07/02/2021 -  Sunday
+Studying DAX Functions - Time Control<br>
+#100DaysOfMLCode
+
 ## Round 2 - 125/151 - 06/02/2021 -  Saturday
 Studying DAX Functions<br>
 #100DaysOfMLCode
