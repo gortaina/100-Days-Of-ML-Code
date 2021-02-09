@@ -10,10 +10,14 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-## Round 2 - 127/151 - 08/02/2021 -  Monday
-Using powershell to generate dashboard automaticaly<br>
+## Round 2 - 128/151 - 09/02/2021 -  Tuesday
+Using powershell to generate dashboard automatically - Part II<br>
 #100DaysOfMLCode
 
+
+## Round 2 - 127/151 - 08/02/2021 -  Monday
+Using powershell to generate dashboard automatically<br>
+#100DaysOfMLCode
 
 ## Round 2 - 126/151 - 07/02/2021 -  Sunday
 Studying DAX Functions - Time Control<br>
