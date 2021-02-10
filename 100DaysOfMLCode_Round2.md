@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 129/151 - 10/02/2021 -  Wednesday
+Dev Summit II by IGTI<br>
+#100DaysOfMLCode
+
 ## Round 2 - 128/151 - 09/02/2021 -  Tuesday
 Using powershell to generate dashboard automatically - Part II<br>
 #100DaysOfMLCode
