@@ -10,6 +10,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+## Round 2 - 130/151 - 11/02/2021 -  Thursday
+Bootcamp System Architecture complete - by IGTI<br>
+#100DaysOfMLCode
+
+
 ## Round 2 - 129/151 - 10/02/2021 -  Wednesday
 Dev Summit II by IGTI<br>
 #100DaysOfMLCode
