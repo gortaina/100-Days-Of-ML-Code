@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 132/151 - 13/02/2021 -  Saturday
+Studying data governace with Power Platform - part II<br>
+#100DaysOfMLCode
+
 ## Round 2 - 131/151 - 12/02/2021 -  Friday
 Studying data governace with Power Platform<br>
 #100DaysOfMLCode
