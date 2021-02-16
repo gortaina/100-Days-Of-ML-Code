@@ -10,6 +10,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+## Round 2 - 134/151 - 15/02/2021 -  Monday
+Solving simple problems with recursion (not ML)<br>
+#100DaysOfMLCode
+
 ## Round 2 - 133/151 - 14/02/2021 -  Sunday
 Studying data governace with Power Platform - part III<br>
 #100DaysOfMLCode
