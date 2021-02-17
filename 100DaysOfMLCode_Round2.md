@@ -10,11 +10,14 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 136/151 - 17/02/2021 -  Wednesday
+Hackaton on Analytics Vidhya<br>
+#100DaysOfMLCode
+
 
 ## Round 2 - 135/151 - 16/02/2021 -  Tuesday
 System Architecture Bootcamp concluded by IGTI<br>
 #100DaysOfMLCode
-
 
 ## Round 2 - 134/151 - 15/02/2021 -  Monday
 Solving simple problems with recursion (not ML)<br>
