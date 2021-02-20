@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 139/152 - 20/02/2021 -  Saturday
+Hackaton on Analytics Vidhya - Week I - Part 3<br>
+#100DaysOfMLCode
+
 ## Round 2 - 138/152 - 19/02/2021 -  Friday
 Hackaton on Analytics Vidhya - Week I - Part 2<br>
 #100DaysOfMLCode
