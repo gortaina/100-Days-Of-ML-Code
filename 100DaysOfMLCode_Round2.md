@@ -12,15 +12,15 @@ Imagens
 
 
 
-# Round 2 - 142/152 - 23/02/2021 -  Tuesday
+## Round 2 - 142/152 - 23/02/2021 -  Tuesday
 Hackaton on Analytics Vidhya - Week I - Part 6<br>
 #100DaysOfMLCode
 
-# Round 2 - 141/152 - 22/02/2021 -  Monday
+## Round 2 - 141/152 - 22/02/2021 -  Monday
 Hackaton on Analytics Vidhya - Week I - Part 5<br>
 #100DaysOfMLCode
 
-# Round 2 - 140/152 - 21/02/2021 -  Sunday
+## Round 2 - 140/152 - 21/02/2021 -  Sunday
 Hackaton on Analytics Vidhya - Week I - Part 4<br>
 #100DaysOfMLCode
 
