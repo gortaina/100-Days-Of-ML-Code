@@ -10,6 +10,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 144/152 - 25/02/2021 -  Thursday
+Completed - Applied Machine Learning  - Beginner to Professional - by Analytics Vidhya<br>
+#100DaysOfMLCode
+<br>
+<img alt="100DaysOfCode" src="./img/applied_machine_learning_analytics_vidhya_2021-02-25_12-44-31.png"  width="50%" heigth="50%"/>
+
 ## Round 2 - 143/152 - 24/02/2021 - Wednesday
 AWS Innovate - ML and IA
 https://aws.amazon.com/pt/events/innovate-online-conference/americas/<br>
