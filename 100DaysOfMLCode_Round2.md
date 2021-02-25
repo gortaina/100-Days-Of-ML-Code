@@ -10,7 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-
+## Round 2 - 143/152 - 24/02/2021 -  Wednesday
+AWS Innovate - ML and IA
+https://aws.amazon.com/pt/events/innovate-online-conference/americas/<br>
+#100DaysOfMLCode
 
 ## Round 2 - 142/152 - 23/02/2021 -  Tuesday
 Hackaton on Analytics Vidhya - Week I - Part 6<br>
