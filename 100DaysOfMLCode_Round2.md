@@ -12,7 +12,7 @@ Imagens
 
 ## Round 2 - 144/152 - 25/02/2021 -  Thursday
 Completed - Applied Machine Learning  - Beginner to Professional - by Analytics Vidhya<br>
-#100DaysOfMLCode
+#100DaysOfMLCode #AnalyticsVidhya
 <br>
 <img alt="100DaysOfCode" src="./img/applied_machine_learning_analytics_vidhya_2021-02-25_12-44-31.png"  width="50%" heigth="50%"/>
 
