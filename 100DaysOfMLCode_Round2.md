@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 147/152 - 28/02/2021 -  Sunday
+Studying Tableau Dataviz - Part III<br>
+#100DaysOfMLCode #AnalyticsVidhya #tableau #dataviz
+
 ## Round 2 - 146/152 - 27/02/2021 -  Saturday
 Studying Tableau Dataviz - Part II<br>
 #100DaysOfMLCode #AnalyticsVidhya #tableau #dataviz
