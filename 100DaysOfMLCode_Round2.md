@@ -11,7 +11,7 @@ Imagens
 ''' 
 
 
-## Round 2 - 148/152 - 01/02/2021 -  Monday
+## Round 2 - 148/152 - 01/03/2021 -  Monday
 PL-900 - Microsoft Power Platform Fundamentals course completed!<br>
 #100DaysOfMLCode #PowerBI #PowerApp #PowerPlatform
 
