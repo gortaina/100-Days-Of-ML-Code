@@ -10,6 +10,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+## Round 2 - 148/152 - 01/02/2021 -  Monday
+PL-900 - Microsoft Power Platform Fundamentals course completed!<br>
+#100DaysOfMLCode #PowerBI #PowerApp #PowerPlatform
+
+
 ## Round 2 - 147/152 - 28/02/2021 -  Sunday
 Studying Tableau Dataviz - Part III<br>
 #100DaysOfMLCode #AnalyticsVidhya #tableau #dataviz
