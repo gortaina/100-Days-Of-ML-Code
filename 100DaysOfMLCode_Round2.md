@@ -11,10 +11,14 @@ Imagens
 ''' 
 
 
+## Round 2 - 149/152 - 02/03/2021 - Tuesday
+Time to learn Electron js <br>
+[![](http://img.youtube.com/vi/kN1Czs0m1SU/0.jpg)](http://www.youtube.com/watch?v=kN1Czs0m1SU "")<br>
+#100DaysOfMLCode #Electronjs
+
 ## Round 2 - 148/152 - 01/03/2021 -  Monday
 PL-900 - Microsoft Power Platform Fundamentals course completed!<br>
 #100DaysOfMLCode #PowerBI #PowerApp #PowerPlatform
-
 
 ## Round 2 - 147/152 - 28/02/2021 -  Sunday
 Studying Tableau Dataviz - Part III<br>
