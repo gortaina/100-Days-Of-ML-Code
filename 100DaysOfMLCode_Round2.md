@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 150/152 - 03/03/2021 - Wednesday
+Time to learn Electron js - Part II <br>
+#100DaysOfMLCode #Electronjs
+
 
 ## Round 2 - 149/152 - 02/03/2021 - Tuesday
 Time to learn Electron js <br>
