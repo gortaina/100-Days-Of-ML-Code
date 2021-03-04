@@ -10,6 +10,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 151/152 - 04/03/2021 - Thursday
+Retail Demand Prediction using Machine Learning Cases <br>
+#100DaysOfMLCode
+
 ## Round 2 - 150/152 - 03/03/2021 - Wednesday
 Time to learn Electron js - Part II <br>
 #100DaysOfMLCode #Electronjs
