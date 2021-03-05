@@ -10,6 +10,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 2 - 152/152 - 05/03/2021 - Friday
+End of Journey - Round 2 mission completed!<br>
+#100DaysOfMLCode
+<br>
+<img alt="100DaysOfCode" src="./img/apGLZdB_700bwp.webp"  width="50%" heigth="50%"/>
+
+
 ## Round 2 - 151/152 - 04/03/2021 - Thursday
 Retail Demand Prediction using Machine Learning Cases <br>
 #100DaysOfMLCode
