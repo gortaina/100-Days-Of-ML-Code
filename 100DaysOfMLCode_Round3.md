@@ -9,7 +9,7 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-## Round 2 - 1/100 - 18/03/2021 - Thursday
+## Round 3- 1/100 - 18/03/2021 - Thursday
 Start of Journey - Round 3!<br>
 #100DaysOfMLCode
 <br>
