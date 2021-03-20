@@ -10,6 +10,12 @@ Imagens
 ''' 
 
 
+## Round 3- 3/100 - 20/03/2021 - Saturday
+Using version control for power bi projects take a look<br>
+https://github.com/awaregroup/powerbi-vcs<br>
+#100DaysOfMLCode
+
+
 ## Round 3- 2/100 - 19/03/2021 - Friday
 Joined in 4th International Data Analysis Olympiad<br>
 https://idao.world/ !<br>
