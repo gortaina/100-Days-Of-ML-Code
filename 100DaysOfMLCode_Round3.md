@@ -9,6 +9,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3- 5/100 - 22/03/2021 - Monday
+Learning how make a exaustive hypothesis about data without look it<br>
+#100DaysOfMLCode
+
+## Round 3- 4/100 - 21/03/2021 - Sunday
+"Structured Thinking and Communication for Data Science Professionals" course completed!<br>
+#100DaysOfMLCode #AnalyticsVidhya
 
 ## Round 3- 3/100 - 20/03/2021 - Saturday
 Using version control for power bi projects take a look<br>
