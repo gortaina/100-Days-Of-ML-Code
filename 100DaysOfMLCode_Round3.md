@@ -9,6 +9,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3- 6/100 - 23/03/2021 - Tuesday
+ML Exercise about bike sharing by kaggle <br>
+https://www.kaggle.com/c/bike-sharing-demand/data<br>
+#100DaysOfMLCode
+
 ## Round 3- 5/100 - 22/03/2021 - Monday
 Learning how make a exaustive hypothesis about data without look it<br>
 #100DaysOfMLCode
