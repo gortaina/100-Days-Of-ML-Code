@@ -9,6 +9,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3- 7/100 - 24/03/2021 - Wednesday
+using Banknote's authentication dataset to find out which forecasting algorithm is best for this case: KNN, Decision Tree, Random Forest, SVM, MLP, etc <br>
+https://archive.ics.uci.edu/ml/datasets/banknote+authentication<br>
+#100DaysOfMLCode<br>
+<img alt="100DaysOfCode" src="./img/2021-03-24_10-39-03.png"  width="50%" heigth="50%"/>
+
 ## Round 3- 6/100 - 23/03/2021 - Tuesday
 ML Exercise about bike sharing by kaggle <br>
 https://www.kaggle.com/c/bike-sharing-demand/data<br>
