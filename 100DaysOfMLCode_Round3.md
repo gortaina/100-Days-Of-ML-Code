@@ -10,7 +10,7 @@ Imagens
 ''' 
 
 ## Round 3- 8/100 - 25/03/2021 - Thursday
-AnalysisGame Of Thrones  dataset, to find out which lives ou dies, predicting the fate of characters<br>
+Data analysis of Game of Thrones dataset, to find out which lives ou dies, predicting the fate of characters<br>
 https://www.kaggle.com/mylesoneill/game-of-thrones<br>
 #100DaysOfMLCode<br>
 <img alt="100DaysOfCode" src="./img/game-of-thrones-the-iron-throne-800x400.jpg"  width="50%" heigth="50%"/>
