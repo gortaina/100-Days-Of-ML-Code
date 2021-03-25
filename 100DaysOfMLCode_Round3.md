@@ -9,7 +9,7 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-## Round 3- 7/100 - 24/03/2021 - Wednesday
+## Round 3- 8/100 - 25/03/2021 - Thursday
 AnalysisGame Of Thrones  dataset, to find out which lives ou dies, predicting the fate of characters<br>
 https://www.kaggle.com/mylesoneill/game-of-thrones<br>
 #100DaysOfMLCode<br>
