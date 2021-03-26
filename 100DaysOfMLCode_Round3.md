@@ -9,6 +9,14 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+
+
+## Round 3- 9/100 - 26/03/2021 - Friday
+Data analysis of 50 Startups dataset, find out correlaton between R&D Spend and Profit <br>
+https://www.kaggle.com/farhanmd29/50-startups<br>
+#100DaysOfMLCode<br>
+
 ## Round 3- 8/100 - 25/03/2021 - Thursday
 Data analysis of Game of Thrones dataset, to find out which lives ou dies, predicting the fate of characters<br>
 https://www.kaggle.com/mylesoneill/game-of-thrones<br>
