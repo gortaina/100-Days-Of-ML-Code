@@ -10,6 +10,12 @@ Imagens
 ''' 
 
 
+
+## Round 3- 11/100 - 28/03/2021 - Sunday
+Hacker Rank - solving exercises<br>
+https://www.hackerrank.com/<br>
+#100DaysOfMLCode<br>
+
 ## Round 3- 10/100 - 27/03/2021 - Saturday
 Google JAM 2021 <br>
 https://codingcompetitions.withgoogle.com/codejam/<br>
