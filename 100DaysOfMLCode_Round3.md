@@ -9,7 +9,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-
+## Round 3- 12/100 - 29/03/2021 - Monday
+Google JAM - Round Qualified \o<br>
+"Congratulations — you've qualified for Round 1 of Code Jam 2021 — great work!" :rocket::rocket::rocket:<br>
+#100DaysOfMLCode<br>
 
 ## Round 3- 11/100 - 28/03/2021 - Sunday
 Hacker Rank - solving exercises<br>
