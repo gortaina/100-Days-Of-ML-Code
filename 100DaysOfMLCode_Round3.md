@@ -9,6 +9,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3- 14/100 - 31/03/2021 - Wednesday
+Kaggle competitions \o<br>
+#100DaysOfMLCode<br>
+
 ## Round 3- 13/100 - 30/03/2021 - Tuesday
 Solving  HackerRank problems<br>
 #100DaysOfMLCode<br>
