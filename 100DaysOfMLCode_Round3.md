@@ -10,7 +10,7 @@ Imagens
 ''' 
 
 ## Round 3- 18/100 - 04/03/2021 - Sunday
-Solving  HackerRank problems<br>
+Solving  HackerRank problems \0<br>
 #100DaysOfMLCode<br>
 
 ## Round 3- 17/100 - 03/04/2021 - Saturday
