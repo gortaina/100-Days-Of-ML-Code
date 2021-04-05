@@ -10,7 +10,7 @@ Imagens
 ''' 
 
 ## Round 3- 19/100 - 05/03/2021 - Monday
-EDA on datasets: bloodtransfer, wine and diabetes \0<br>
+EDA on datasets: bloodtransfer, wine and diabetes<br>
 #100DaysOfMLCode<br>
 
 ## Round 3- 18/100 - 04/03/2021 - Sunday
