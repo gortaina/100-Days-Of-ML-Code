@@ -9,6 +9,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+## Round 3- 20/100 - 06/03/2021 - Tuesday
+EDA on datasets: bloodtransfer, wine and diabetes - Part II<br>
+#100DaysOfMLCode<br>
+
 ## Round 3- 19/100 - 05/03/2021 - Monday
 EDA on datasets: bloodtransfer, wine and diabetes<br>
 #100DaysOfMLCode<br>
