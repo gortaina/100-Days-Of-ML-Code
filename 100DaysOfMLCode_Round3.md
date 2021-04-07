@@ -10,6 +10,11 @@ Imagens
 ''' 
 
 
+## Round 3- 21/100 - 07/03/2021 - Wednesday
+Big Notation! Translate search functions from O(n!) to best case such as O(1), O(logn), O(n)...<br>
+#100DaysOfMLCode<br>
+<img alt="100DaysOfCode" src="./img/big-o-complexity.png"  width="50%" heigth="50%"/>
+
 ## Round 3- 20/100 - 06/03/2021 - Tuesday
 EDA on datasets: bloodtransfer, wine and diabetes - Part II<br>
 #100DaysOfMLCode<br>
@@ -57,7 +62,7 @@ https://www.hackerrank.com/<br>
 Google JAM 2021 <br>
 https://codingcompetitions.withgoogle.com/codejam/<br>
 #100DaysOfMLCode<br>
-<img alt="100DaysOfCode" src="./img/2021-03-27_02-02-09.png"  width="50%" heigth="50%"/>
+c
 
 
 
