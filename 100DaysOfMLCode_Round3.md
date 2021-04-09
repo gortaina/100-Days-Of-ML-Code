@@ -10,10 +10,13 @@ Imagens
 ''' 
 
 
+## Round 3- 23/100 - 09/03/2021 - Friday
+Google JAM Roun 1 <br>
+#100DaysOfMLCode<br>
+
 ## Round 3- 22/100 - 08/03/2021 - Thursday
 Open.ml hackaton!<br>
 #100DaysOfMLCode<br>
-
 
 ## Round 3- 21/100 - 07/03/2021 - Wednesday
 Big Notation! Translate search functions from O(n!) to best case such as O(1), O(logn), O(n)...<br>
