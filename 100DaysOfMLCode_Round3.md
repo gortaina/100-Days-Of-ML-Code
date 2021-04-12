@@ -9,6 +9,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3- 26/100 - 12/03/2021 - Monday
+Coding practice on Google JAM Archives - PArt II<br>
+Half complete \o <br>
+#100DaysOfMLCode<br>
+<img alt="100DaysOfCode" src="./img/never_give_up_2021-04-12_10-04-24.png"  width="50%" heigth="50%"/>
+
+never_give_up_2021-04-12_10-04-24.png
 
 ## Round 3- 25/100 - 11/03/2021 - Sunday
 Coding practice on Google JAM Archives<br>
