@@ -9,7 +9,7 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-## Round 3- 27/100 - 13/03/2021 - Tuesdat
+## Round 3- 27/100 - 13/03/2021 - Tuesday
 Dataset Analysis, tunninh hyperparameters for:
 SVC, Random Forest Classifier, with Random Search
 https://www.openml.org/d/1480<br>
