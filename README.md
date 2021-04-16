@@ -42,6 +42,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+## Round 3- 30/100 - 16/03/2021 - Friday
+Time for Qwiklabs \o
+https://go.qwiklabs.com/ace-april?utm_source=linkedin&utm_medium=social&utm_campaign=ace-april<br>
+#100DaysOfMLCode<br>
 
 ## Round 3- 29/100 - 15/03/2021 - Thursday
 Part II - Dataset Analysis, tunninh hyperparameters for:
