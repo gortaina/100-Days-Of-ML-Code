@@ -10,6 +10,13 @@ Imagens
 ''' 
 
 
+
+## Round 3- 31/100 - 17/03/2021 - Saturday
+Kick Stark will be open in 30 hours!
+https://codingcompetitions.withgoogle.com/kickstart/<br>
+#100DaysOfMLCode<br>
+
+
 ## Round 3- 30/100 - 16/03/2021 - Friday
 Time for Qwiklabs \o
 https://go.qwiklabs.com/ace-april?utm_source=linkedin&utm_medium=social&utm_campaign=ace-april<br>
