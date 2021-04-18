@@ -9,13 +9,15 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-
+## Round 3- 32/100 - 18/03/2021 - Sunday
+HackerRank updated<br>
+https://www.hackerrank.com/gortaina?badge=30-days-of-code&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share&social=linkedin<br>
+#100DaysOfMLCode<br>
 
 ## Round 3- 31/100 - 17/03/2021 - Saturday
 Kick Stark will be open in 30 hours!
 https://codingcompetitions.withgoogle.com/kickstart/<br>
 #100DaysOfMLCode<br>
-
 
 ## Round 3- 30/100 - 16/03/2021 - Friday
 Time for Qwiklabs \o
