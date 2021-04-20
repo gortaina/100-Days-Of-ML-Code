@@ -9,6 +9,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3- 34/100 - 20/04/2021 - Tuesday
+Binary Search Tree  - PArt II
+#100DaysOfMLCode
+
 ## Round 3- 33/100 - 19/04/2021 - Monday
 Binary Search Tree - PArt I
 #100DaysOfMLCode
