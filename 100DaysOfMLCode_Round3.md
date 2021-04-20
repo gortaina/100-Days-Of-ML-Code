@@ -9,41 +9,45 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-## Round 3- 32/100 - 18/03/2021 - Sunday
+## Round 3- 33/100 - 19/04/2021 - Monday
+Binary Search Tree - PArt I
+#100DaysOfMLCode
+
+## Round 3- 32/100 - 18/04/2021 - Sunday
 HackerRank updated<br>
 https://www.hackerrank.com/gortaina?badge=30-days-of-code&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share&social=linkedin<br>
 #100DaysOfMLCode<br>
 
-## Round 3- 31/100 - 17/03/2021 - Saturday
+## Round 3- 31/100 - 17/04/2021 - Saturday
 Kick Stark will be open in 30 hours!
 https://codingcompetitions.withgoogle.com/kickstart/<br>
 #100DaysOfMLCode<br>
 
-## Round 3- 30/100 - 16/03/2021 - Friday
+## Round 3- 30/100 - 16/04/2021 - Friday
 Time for Qwiklabs \o
 https://go.qwiklabs.com/ace-april?utm_source=linkedin&utm_medium=social&utm_campaign=ace-april<br>
 #100DaysOfMLCode<br>
 
-## Round 3- 29/100 - 15/03/2021 - Thursday
+## Round 3- 29/100 - 15/04/2021 - Thursday
 Part II - Dataset Analysis, tunninh hyperparameters for:
 SVC, Random Forest Classifier, with Random Search
 https://www.openml.org/d/1480<br>
 #100DaysOfMLCode<br>
 
-## Round 3- 28/100 - 14/03/2021 - Wednesday
+## Round 3- 28/100 - 14/04/2021 - Wednesday
 \o/ Practice on Coding \o/<br>
 #100DaysOfMLCode<br>
 <img alt="100DaysOfCode" src="./img/2021-04-08_22-26-51.png"  width="50%" heigth="50%"/><br>
 
 
-## Round 3- 27/100 - 13/03/2021 - Tuesday
+## Round 3- 27/100 - 13/04/2021 - Tuesday
 Dataset Analysis, tunninh hyperparameters for:
 SVC, Random Forest Classifier, with Random Search
 https://www.openml.org/d/1480<br>
 <br>
 #100DaysOfMLCode<br>
 
-## Round 3- 26/100 - 12/03/2021 - Monday
+## Round 3- 26/100 - 12/04/2021 - Monday
 Coding practice on Google JAM Archives - PArt II<br>
 Half complete \o <br>
 #100DaysOfMLCode<br>
@@ -51,36 +55,36 @@ Half complete \o <br>
 
 never_give_up_2021-04-12_10-04-24.png
 
-## Round 3- 25/100 - 11/03/2021 - Sunday
+## Round 3- 25/100 - 11/04/2021 - Sunday
 Coding practice on Google JAM Archives<br>
 #100DaysOfMLCode<br>
 
-## Round 3- 24/100 - 10/03/2021 - Saturday
+## Round 3- 24/100 - 10/04/2021 - Saturday
 Google JAM Roun 1 :( I dind´t pass for next round, a little disappointed, well,  I need study more and more practice!!!<br>
 #100DaysOfMLCode<br>
 
-## Round 3- 23/100 - 09/03/2021 - Friday
+## Round 3- 23/100 - 09/04/2021 - Friday
 Google JAM Roun 1<br>
 #100DaysOfMLCode<br>
 
-## Round 3- 22/100 - 08/03/2021 - Thursday
+## Round 3- 22/100 - 08/04/2021 - Thursday
 Open.ml hackaton!<br>
 #100DaysOfMLCode<br>
 
-## Round 3- 21/100 - 07/03/2021 - Wednesday
+## Round 3- 21/100 - 07/04/2021 - Wednesday
 Big Notation! Translate search functions from O(n!) to best case such as O(1), O(logn), O(n)...<br>
 #100DaysOfMLCode<br>
 <img alt="100DaysOfCode" src="./img/big-o-complexity.png"  width="50%" heigth="50%"/>
 
-## Round 3- 20/100 - 06/03/2021 - Tuesday
+## Round 3- 20/100 - 06/04/2021 - Tuesday
 EDA on datasets: bloodtransfer, wine and diabetes - Part II<br>
 #100DaysOfMLCode<br>
 
-## Round 3- 19/100 - 05/03/2021 - Monday
+## Round 3- 19/100 - 05/04/2021 - Monday
 EDA on datasets: bloodtransfer, wine and diabetes<br>
 #100DaysOfMLCode<br>
 
-## Round 3- 18/100 - 04/03/2021 - Sunday
+## Round 3- 18/100 - 04/04/2021 - Sunday
 Solving  HackerRank problems \0<br>
 #100DaysOfMLCode<br>
 
