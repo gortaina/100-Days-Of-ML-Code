@@ -8,6 +8,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+s 
+
+## Round 3 - 36/100 - 22/04/2021 - Thursday
+Fashion MNIST dataset on Keras - Deep Learning
+#100DaysOfMLCode
+
 
 ## Round 3 - 35/100 - 21/04/2021 - Wednesday
 Hackaton on Kick Start APAC - Google
