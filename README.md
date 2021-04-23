@@ -44,7 +44,7 @@ Imagens
 ''' 
 
 ## Round 3 - 37/100 - 23/04/2021 - Friday
-Google Kickstart APAC, mentoring
+Google Kickstart APAC, mentoring<br>
 <img alt="100DaysOfCode" src="./img/2021-04-22_00-47-43.png"  width="50%" heigth="50%"/><br>
 #100DaysOfMLCode
 
