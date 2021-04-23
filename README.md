@@ -43,6 +43,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3 - 37/100 - 23/04/2021 - Friday
+Google Kickstart APAC, mentoring
+<img alt="100DaysOfCode" src="./img/2021-04-22_00-47-43.png"  width="50%" heigth="50%"/><br>
+#100DaysOfMLCode
+
 ## Round 3 - 36/100 - 22/04/2021 - Thursday
 Fashion MNIST dataset on Keras - Deep Learning
 #100DaysOfMLCode
