@@ -9,6 +9,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3 - 38/100 - 24/04/2021 - Saturday
+Interview with me for "Desenvolvendo Me" channel, check it out: <br>
+#100DaysOfMLCode
+[![Interview with Joel Melo](http://img.youtube.com/vi/2I2BxY5GHj8/0.jpg)](https://www.youtube.com/watch?v=2I2BxY5GHj8&ab_channel=DesenvolvendoMe "Interview Joel Melo")
+<br>
+
 
 ## Round 3 - 37/100 - 23/04/2021 - Friday
 Google Kickstart APAC, mentoring<br>
