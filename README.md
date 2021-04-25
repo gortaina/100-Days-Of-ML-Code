@@ -43,6 +43,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3 - 39/100 - 25/04/2021 - Sunday
+Google Jam Round 1B 2021
+#100DaysOfMLCode
+<br>
+
 ## Round 3 - 38/100 - 24/04/2021 - Saturday
 Interview with me for "Desenvolvendo Me" channel, check it out: <br>
 #100DaysOfMLCode
