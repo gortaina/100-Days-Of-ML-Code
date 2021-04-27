@@ -9,6 +9,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3 - 41/100 - 27/04/2021 - Monday
+Retail Demand Prediction - Exercises
+#100DaysOfMLCode
+<br>
+
 ## Round 3 - 40/100 - 26/04/2021 - Monday
 Retail Demand Prediction - Exercises
 #100DaysOfMLCode
