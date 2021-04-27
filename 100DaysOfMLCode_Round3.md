@@ -9,9 +9,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-## Round 3 - 41/100 - 27/04/2021 - Monday
-Retail Demand Prediction - Exercises
-#100DaysOfMLCode
+## Round 3 - 41/100 - 27/04/2021 - Tuesday
+Tensor Flow - Retraining an Image Classifier - tutorial<br>
+#100DaysOfMLCode<br>
+https://www.tensorflow.org/hub/tutorials/tf2_image_retraining?hl=pt
 <br>
 
 ## Round 3 - 40/100 - 26/04/2021 - Monday
