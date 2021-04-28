@@ -9,6 +9,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+## Round 3 - 42/100 - 28/04/2021 - Wednesday
+Feature Engineering on "Breakfast-at-the-Frat-master" dataset<br>
+#100DaysOfMLCode<br>
+<img alt="100DaysOfCode" src="./img/feature-engineering-fig1-1.jpg"  width="50%" heigth="50%"/><br>
+
 ## Round 3 - 41/100 - 27/04/2021 - Tuesday
 Tensor Flow - Retraining an Image Classifier - tutorial<br>
 #100DaysOfMLCode<br>
