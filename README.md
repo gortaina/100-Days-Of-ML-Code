@@ -42,10 +42,15 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+
+## Round 3 - 44/100 - 30/04/2021 - Friday
+Light GBM, XGBoost and CatBoost on "Breakfast-at-the-Frat-master"  dataset, wich is better?<br>
+#100DaysOfMLCode<br>
+
+
 ## Round 3 - 43/100 - 29/04/2021 - Thursday
 Light GBM on "Breakfast-at-the-Frat-master" dataset<br>
 #100DaysOfMLCode<br>
-
 
 ## Round 3 - 42/100 - 28/04/2021 - Wednesday
 Feature Engineering on "Breakfast-at-the-Frat-master" dataset<br>
