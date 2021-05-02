@@ -8,6 +8,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+## Round 3 - 46/100 - 02/05/2021 - Sunday
+309 days of code complete - HackerRank<br>
+#100DaysOfMLCode<br>
+
+## Round 3 - 45/100 - 01/05/2021 - Saturday
+Complete all exercises form Black Belt course - Analytics Vidhya<br>
+#100DaysOfMLCode<br>
 
 ## Round 3 - 44/100 - 30/04/2021 - Friday
 Light GBM, XGBoost and CatBoost on "Breakfast-at-the-Frat-master"  dataset, wich is better?<br>
