@@ -43,6 +43,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3 - 48/100 - 04/05/2021 - Sunday
+Pandas or Swifter for data clean <br>
+https://medium.com/@jmcarpenter2/swiftapply-automatically-efficient-pandas-apply-operations-50e1058909f9<br>
+#100DaysOfMLCode<br>
+
 ## Round 3 - 47/100 - 03/05/2021 - Monday
 Getting into Bootcamp Data Engineering with André Sionek<br>
 #100DaysOfMLCode<br>
