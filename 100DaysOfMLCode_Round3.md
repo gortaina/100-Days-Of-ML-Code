@@ -10,6 +10,10 @@ Imagens
 ''' 
 
 
+## Round 3 - 49/100 - 05/05/2021 - Wednesday
+Exercises on Combinatory Analysis<br>
+#100DaysOfMLCode<br>
+
 ## Round 3 - 48/100 - 04/05/2021 - Sunday
 Pandas or Swifter for data clean <br>
 https://medium.com/@jmcarpenter2/swiftapply-automatically-efficient-pandas-apply-operations-50e1058909f9<br>
