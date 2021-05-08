@@ -9,6 +9,9 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3 - 52/100 - 08/05/2021 - Saturday
+Sentiment Analisys on LSTM<br>
+#100DaysOfMLCode<br>
 
 ## Round 3 - 51/100 - 07/05/2021 - Friday
 Machine Learning for Data Analysis by IGTI<br>
