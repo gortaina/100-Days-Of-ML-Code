@@ -43,6 +43,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3 - 53/100 - 09/05/2021 - Sunday
+Sentiment Analisys on LSTM - Part II<br>
+#100DaysOfMLCode<br>
+
 ## Round 3 - 52/100 - 08/05/2021 - Saturday
 Sentiment Analisys on LSTM<br>
 #100DaysOfMLCode<br>
