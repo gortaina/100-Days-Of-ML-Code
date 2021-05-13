@@ -42,6 +42,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+## Round 3 - 57/100 - 13/05/2021 - Thursday
+Learning using Word2Vec and GloVe<br
+#100DaysOfMLCode<br>
+
 
 ## Round 3 - 56/100 - 12/05/2021 - Wednesday
 Learning spaCy for NLP<br
