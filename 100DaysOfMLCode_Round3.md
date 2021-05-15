@@ -9,13 +9,18 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-## Round 3 - 58/100 - 14/05/2021 - Fridayday
+
+## Round 3 - 59/100 - 15/05/2021 - Saturday
+Finished a bootcamp on Data Science by Alura<br>
+#100DaysOfMLCode<br>
+
+## Round 3 - 58/100 - 14/05/2021 - Friday
 Percona event!<br>
 https://events.percona.com/events/details/percona-virtual-presents-percona-live-online/#/
 #100DaysOfMLCode<br>
 
 ## Round 3 - 57/100 - 13/05/2021 - Thursday
-Learning using Word2Vec and GloVe<br
+Learning using Word2Vec and GloVe<br>
 #100DaysOfMLCode<br>
 
 ## Round 3 - 56/100 - 12/05/2021 - Wednesday
