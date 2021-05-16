@@ -44,7 +44,7 @@ Imagens
 ''' 
 
 ## Round 3 - 60/100 - 16/05/2021 - Sunday
-Reviewing exercises made for WorldQuant University<br>
+Reviewing exercises made for WorldQuant University(NLP topic)<br>
 #100DaysOfMLCode<br>
 
 ## Round 3 - 59/100 - 15/05/2021 - Saturday
