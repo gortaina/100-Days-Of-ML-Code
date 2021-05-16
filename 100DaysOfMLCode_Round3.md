@@ -9,6 +9,9 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3 - 60/100 - 16/05/2021 - Sunday
+Reviewing exercises made for WorldQuant University<br>
+#100DaysOfMLCode<br>
 
 ## Round 3 - 59/100 - 15/05/2021 - Saturday
 Finished a bootcamp on Data Science by Alura<br>
