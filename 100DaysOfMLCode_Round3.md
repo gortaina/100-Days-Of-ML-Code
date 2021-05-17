@@ -9,6 +9,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3 - 61/100 - 17/05/2021 - Monday
+Using terraform in AWS<br>
+#100DaysOfMLCode<br>
+
 ## Round 3 - 60/100 - 16/05/2021 - Sunday
 Reviewing exercises made for WorldQuant University<br>
 #100DaysOfMLCode<br>
