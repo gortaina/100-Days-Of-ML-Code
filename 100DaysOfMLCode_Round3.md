@@ -8,6 +8,9 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+## Round 3 - 62/100 - 18/05/2021 - Tuesday
+Google I/O <br>
+#100DaysOfMLCode<br>
 
 ## Round 3 - 61/100 - 17/05/2021 - Monday
 Using terraform in AWS<br>
