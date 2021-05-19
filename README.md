@@ -43,6 +43,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3 - 63/100 - 19/05/2021 - Wednesday
+Basic "autoML" with many loops and ifs<br>
+#100DaysOfMLCode<br>
+<img alt="100DaysOfMLCode" src="./img/2021-05-18_23-32-06a.png"  width="50%" heigth="50%"/><br>
+
 ## Round 3 - 62/100 - 18/05/2021 - Tuesday
 Google I/O <br>
 #100DaysOfMLCode<br>
