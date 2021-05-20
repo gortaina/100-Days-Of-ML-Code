@@ -8,6 +8,9 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+## Round 3 - 64/100 - 20/05/2021 - Thursday
+Google I/O - Getting badges and learning TensorFlowLite<br>
+#100DaysOfMLCode<br>
 
 ## Round 3 - 63/100 - 19/05/2021 - Wednesday
 Basic "autoML" with many loops and ifs<br>
