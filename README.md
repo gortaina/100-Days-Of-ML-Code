@@ -43,6 +43,9 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+## Round 3 - 65/100 - 21/05/2021 - Friday
+Making ETL´s using applestore dataset on powerbi<br>
+#100DaysOfMLCode<br>
 
 ## Round 3 - 64/100 - 20/05/2021 - Thursday
 Google I/O - Getting badges and learning TensorFlowLite<br>
