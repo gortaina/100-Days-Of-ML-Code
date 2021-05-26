@@ -9,6 +9,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+# Round 3 - 70/100 - 26/05/2021 - Wednesday
+Microsoft Build 2021 🚀<br>
+#100DaysOfMLCode<br>
+
 # Round 3 - 69/100 - 25/05/2021 - Tuesday
 Solving query exercies part II<br>
 #100DaysOfMLCode<br>
