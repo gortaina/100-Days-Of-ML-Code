@@ -10,7 +10,7 @@ Imagens
 ''' 
 
 # Round 3 - 71/100 - 27/05/2021 - Thursday
-Refactory python code for using pipelines, like that <br>
+Refactoring  python code for using pipelines, like that <br>
 simple_pipeline = Pipeline([<br>
   ('counts', CountVectorizer()),<br>
   ('classifier', MultinomialNB())<br>
