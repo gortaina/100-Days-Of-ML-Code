@@ -17,6 +17,19 @@ simple_pipeline = Pipeline([<br>
 ])<br>
 #100DaysOfMLCode<br>
 
+# Round 3 - 72/100 - 28/05/2021 - Friday
+From "It works on my machine!"
+to
+"It works on my model on my machine!" 😆<br>
+#100DaysOfMLCode<br>
+
+# Round 3 - 71/100 - 27/05/2021 - Thursday
+Refactoring python code for using pipelines, like that
+simple_pipeline = Pipeline([
+('counts', CountVectorizer()),
+('classifier', MultinomialNB())
+])
+#100DaysOfMLCode
 
 # Round 3 - 70/100 - 26/05/2021 - Wednesday
 Microsoft Build 2021 🚀<br>
