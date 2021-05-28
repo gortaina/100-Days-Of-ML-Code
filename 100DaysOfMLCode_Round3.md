@@ -9,14 +9,6 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-# Round 3 - 71/100 - 27/05/2021 - Thursday
-Refactoring  python code for using pipelines, like that <br>
-simple_pipeline = Pipeline([<br>
-  ('counts', CountVectorizer()),<br>
-  ('classifier', MultinomialNB())<br>
-])<br>
-#100DaysOfMLCode<br>
-
 # Round 3 - 72/100 - 28/05/2021 - Friday
 From "It works on my machine!"
 to
