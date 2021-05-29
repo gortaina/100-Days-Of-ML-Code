@@ -42,6 +42,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+# Round 3 - 73/100 - 29/05/2021 - Saturday
+Sentiment Analysis a little easier
+https://towardsdatascience.com/fine-grained-sentiment-analysis-in-python-part-1-2697bb111ed4<br>
+#100DaysOfMLCode<br>
+
 
 # Round 3 - 72/100 - 28/05/2021 - Friday
 From "It works on my machine!"
