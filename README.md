@@ -42,11 +42,19 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+
+# Round 3 - 74/100 - 30/05/2021 - Sunday
+think that I don´t unerstanding:
+On LSTM model, I reach on 0.8 on f1-Score, but in generalization falls to 0.266
+On OneVsRestClassifier, I reach on .3 on f1-Score, but in generalization increase to 0.43
+What hell is this ? 😖😖😖
+#100DaysOfMLCode<br>
+
+
 # Round 3 - 73/100 - 29/05/2021 - Saturday
 Sentiment Analysis a little easier
 https://towardsdatascience.com/fine-grained-sentiment-analysis-in-python-part-1-2697bb111ed4<br>
 #100DaysOfMLCode<br>
-
 
 # Round 3 - 72/100 - 28/05/2021 - Friday
 From "It works on my machine!"
