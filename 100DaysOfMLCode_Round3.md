@@ -10,7 +10,7 @@ Imagens
 ''' 
 
 # Round 3 - 74/100 - 30/05/2021 - Sunday
-think that I don´t unerstanding:
+think that I don´t understanding:
 On LSTM model, I reach on 0.8 on f1-Score, but in generalization falls to 0.266
 On OneVsRestClassifier, I reach on .3 on f1-Score, but in generalization increase to 0.43
 What hell is this ? 😖😖😖
