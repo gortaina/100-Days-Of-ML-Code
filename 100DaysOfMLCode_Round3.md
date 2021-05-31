@@ -9,6 +9,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+# Round 3 - 75/100 - 31/05/2021 - Monday
+How to spot a data charlatan ? Read this:
+https://towardsdatascience.com/how-to-spot-a-data-charlatan-85785c991433
+#100DaysOfMLCode<br>
+
 # Round 3 - 74/100 - 30/05/2021 - Sunday
 think that I don´t understanding:
 On LSTM model, I reach on 0.8 on f1-Score, but in generalization falls to 0.266
