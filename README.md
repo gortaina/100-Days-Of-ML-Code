@@ -44,6 +44,10 @@ Imagens
 ''' 
 
 
+# Round 3 - 75/100 - 31/05/2021 - Monday
+How to spot a data charlatan ? Read this:
+https://towardsdatascience.com/how-to-spot-a-data-charlatan-85785c991433
+#100DaysOfMLCode<br>
 
 
 
