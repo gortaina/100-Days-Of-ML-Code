@@ -43,6 +43,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+# Round 3 - 76/100 - 01/06/2021 - Tuesday
+Governance on data?
+https://medium.com/swlh/data-lake-design-for-better-architecture-storage-security-data-governance-16d2a36721ba
+#100DaysOfMLCode<br>
+
 
 # Round 3 - 75/100 - 31/05/2021 - Monday
 How to spot a data charlatan ? Read this:
