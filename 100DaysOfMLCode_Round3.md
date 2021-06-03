@@ -9,6 +9,9 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+# Round 3 - 78/100 - 03/06/2021 - Thursday
+Django on data! - part II
+#100DaysOfMLCode<br>
 
 # Round 3 - 77/100 - 02/06/2021 - Wednesday
 Django on data!
