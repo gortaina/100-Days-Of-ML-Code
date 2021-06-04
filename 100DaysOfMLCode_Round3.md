@@ -9,6 +9,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+# Round 3 - 79/100 - 04/06/2021 - Friday
+Improving f1-score througth ensemble method
+#100DaysOfMLCode<br>
+
 # Round 3 - 78/100 - 03/06/2021 - Thursday
 Django on data! - part II
 #100DaysOfMLCode<br>
