@@ -9,6 +9,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+# Round 3 - 81/100 - 06/06/2021 - Sunday
+Utilizing Stanford NLP's pretrained GloVe - Part II
+#100DaysOfMLCode<br>
+
 # Round 3 - 80/100 - 05/06/2021 - Saturday
 Utilizing Stanford NLP's pretrained GloVe
 #100DaysOfMLCode<br>
