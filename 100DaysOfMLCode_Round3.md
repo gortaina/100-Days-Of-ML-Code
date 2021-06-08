@@ -9,12 +9,15 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+# Round 3 - 83/100 - 08/06/2021 - Tuesday
+Alexa on power bi!
+https://www.youtube.com/watch?v=ZdCW2ytVZxw
+#100DaysOfMLCode<br>
 
 # Round 3 - 82/100 - 07/06/2021 - Monday
 Disruptive revolution event - by IGTI
 https://www.igti.com.br/disruptive-revolution-7-a-10-de-junho-21/
 #100DaysOfMLCode<br>
-
 
 # Round 3 - 81/100 - 06/06/2021 - Sunday
 Utilizing Stanford NLP's pretrained GloVe - Part II
