@@ -45,7 +45,7 @@ Imagens
 
 # Round 3 - 83/100 - 08/06/2021 - Tuesday
 Alexa on power bi!
-https://www.youtube.com/watch?v=ZdCW2ytVZxw
+https://www.youtube.com/watch?v=ZdCW2ytVZxw<br>
 #100DaysOfMLCode<br>
 
 
