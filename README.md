@@ -43,6 +43,14 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+# Round 3 - 85/100 - 10/06/2021 - Thursday
+Getting new learning<br>
+AI on Sales<br>
+https://www.datascienceacademy.com.br/bundle/formacao-inteligencia-artificial-para-vendas
+<br>
+#100DaysOfMLCode<br>
+
+
 # Round 3 - 84/100 - 09/06/2021 - Wednesday
 Program completed!<br>
 https://blackbelt.analyticsvidhya.com/plus<br>
