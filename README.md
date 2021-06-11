@@ -44,7 +44,9 @@ Imagens
 ''' 
 
 # Round 3 - 86/100 - 11/06/2021 - Friday
-Studyinh for Hackathon - A3 Data Challenge<br>
+Preparing for Hackathon - A3 Data Challenge<br>
+Follow some advices<br>
+https://www.hackreactor.com/blog/how-to-prepare-for-your-first-hackathon<br>
 #100DaysOfMLCode<br>
 
 # Round 3 - 85/100 - 10/06/2021 - Thursday
