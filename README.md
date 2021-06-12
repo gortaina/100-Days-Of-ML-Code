@@ -43,6 +43,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+# Round 3 - 87/100 - 12/06/2021 - Saturday
+Soving math problems<br>
+Linear functions<br>
+#100DaysOfMLCode<br>
+
 # Round 3 - 86/100 - 11/06/2021 - Friday
 Preparing for Hackathon - A3 Data Challenge<br>
 Follow some advices<br>
