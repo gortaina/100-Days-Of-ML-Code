@@ -43,12 +43,17 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+# Round 3 - 89/100 - 14/06/2021 - Monday
+Feeling sick after taking the covid19 vaccine<br>
+not code today, all day in bed<br>
+<br>
+#100DaysOfMLCode<br>
+
 # Round 3 - 88/100 - 13/06/2021 - Sunday
 Machine Learnin Course finished - Data Science Academy<br>
 <img alt="100DaysOfMLCode" src="./img/2021-06-13_12-59-52.png"  width="50%" heigth="50%"/><br>
 <br>
 #100DaysOfMLCode<br>
-
 
 # Round 3 - 87/100 - 12/06/2021 - Saturday
 Soving math problems<br>
