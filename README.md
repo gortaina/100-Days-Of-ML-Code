@@ -43,6 +43,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+# Round 3 - 90/100 - 15/06/2021 - Tuesday
+Still sick but getting better<br>
+some code today, hall day in bed<br>
+<br>
+#100DaysOfMLCode<br>
+
+
 # Round 3 - 89/100 - 14/06/2021 - Monday
 Feeling sick after taking the covid19 vaccine<br>
 not code today, all day in bed<br>
