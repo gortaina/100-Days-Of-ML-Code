@@ -10,6 +10,10 @@ Imagens
 ''' 
 
 
+# Round 3 - 92/100 - 17/06/2021 - Thursday
+Let´s code on dataproc(Spark) - google cloud - Part II<br>
+#100DaysOfMLCode<br>
+
 # Round 3 - 91/100 - 16/06/2021 - Wednesday
 Finally better! Oximeter 99%<br>
 Let´s code on dataproc - google cloud<br>
