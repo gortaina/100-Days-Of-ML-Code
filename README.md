@@ -43,16 +43,19 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+# Round 3 - 93/100 - 18/06/2021 - Friday
+Creating Jobs on PySpark to process .7z files<br>
+#100DaysOfMLCode<br>
+
 # Round 3 - 92/100 - 17/06/2021 - Thursday
 Let´s code on dataproc(Spark) - google cloud - Part II<br>
 #100DaysOfMLCode<br>
-
 
 # Round 3 - 91/100 - 16/06/2021 - Wednesday
 Finally better! Oximeter 99%<br>
 Let´s code on dataproc - google cloud<br>
 #100DaysOfMLCode<br>
-
 
 # Round 3 - 90/100 - 15/06/2021 - Tuesday
 Still sick but getting better<br>
