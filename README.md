@@ -43,14 +43,13 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
-# Round 3 - 96/100 - 20/06/2021 - Sundday
+# Round 3 - 95/100 - 20/06/2021 - Sunday
 Creating Jobs on PySpark to process .7z files - Part II<br>
 #100DaysOfMLCode<br>
 
 # Round 3 - 94/100 - 19/06/2021 - Saturday
 Creating Jobs on PySpark to process .7z files Part II<br>
 #100DaysOfMLCode<br>
-
 
 # Round 3 - 93/100 - 18/06/2021 - Friday
 Creating Jobs on PySpark to process .7z files<br>
