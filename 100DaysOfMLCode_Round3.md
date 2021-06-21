@@ -9,6 +9,10 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+# Round 3 - 96/100 - 21/06/2021 - Monday
+Power BI - M Lang Scripts<br>
+#100DaysOfMLCode<br>
+
 # Round 3 - 95/100 - 20/06/2021 - Sunday
 Creating Jobs on PySpark to process .7z files - Part II<br>
 #100DaysOfMLCode<br>
