@@ -9,6 +9,12 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 Imagens
 ''' 
 
+
+
+# Round 3 - 98/100 - 23/06/2021 - Wednesday
+Data Visualizations and Dashboards Design<br>
+#100DaysOfMLCode<br>
+
 # Round 3 - 97/100 - 22/06/2021 - Tuesday
 Business Analytics = Business + Big Data + Data Science<br>
 #100DaysOfMLCode<br>
