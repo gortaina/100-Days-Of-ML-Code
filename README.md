@@ -25,7 +25,7 @@ Follow me on twitter  https://twitter.com/gortaina and see my track on this jour
 | :--------------: |:-----------:|
 |[Logbook Round 1 - Click here ](https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/100DaysOfMLCode_Round1.md) | Complete :rocket: | 
 |[Logbook Round 2 - Click here ](https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/100DaysOfMLCode_Round2.md) | Complete :rocket::rocket: | 
-|[Logbook Round 3 - Click here ](https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/100DaysOfMLCode_Round3.md) | In Progress :construction: | 
+|[Logbook Round 3 - Click here ](https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/100DaysOfMLCode_Round3.md) | Complete :rocket::rocket::rocket: | 
 
 <br>
 <br>
@@ -42,6 +42,11 @@ emoticon for commit https://gitmoji.carloscuesta.me/
 #100DaysOfCode
 Imagens
 ''' 
+
+# Round 3 - 100/100 - 25/06/2021 - Friday
+Services names in different clouds.<br>
+<img alt="100DaysOfMLCode" src="./img/300_days_of_ML_code_2021-06-25_11-04-29.png"  width="50%" heigth="50%"/><br>
+#100DaysOfMLCode<br>
 
 # Round 3 - 99/100 - 24/06/2021 - Thursday
 Services names in different clouds.<br>
@@ -87,7 +92,6 @@ some code today, hall day in bed<br>
 <br>
 #100DaysOfMLCode<br>
 
-
 # Round 3 - 89/100 - 14/06/2021 - Monday
 Feeling sick after taking the covid19 vaccine<br>
 not code today, all day in bed<br>
@@ -127,7 +131,6 @@ https://blackbelt.analyticsvidhya.com/plus<br>
 Alexa on power bi!
 https://www.youtube.com/watch?v=ZdCW2ytVZxw<br>
 #100DaysOfMLCode<br>
-
 
 # Round 3 - 82/100 - 07/06/2021 - Monday
 Disruptive revolution event - by IGTI<br>
@@ -310,7 +313,6 @@ Feature Engineering on "Breakfast-at-the-Frat-master" dataset<br>
 #100DaysOfMLCode<br>
 <img alt="100DaysOfCode" src="./img/feature-engineering-fig1-1.jpg"  width="50%" heigth="50%"/><br>
 
-
 ## Round 3 - 41/100 - 27/04/2021 - Tuesday
 Tensor Flow - Retraining an Image Classifier - tutorial<br>
 #100DaysOfMLCode<br>
@@ -321,7 +323,6 @@ https://www.tensorflow.org/hub/tutorials/tf2_image_retraining?hl=pt
 Retail Demand Prediction - Exercises
 #100DaysOfMLCode
 <br>
-
 
 ## Round 3 - 39/100 - 25/04/2021 - Sunday
 Google Jam Round 1B 2021
@@ -334,12 +335,10 @@ Interview with me for "Desenvolvendo Me" channel, check it out: <br>
 [![Interview with Joel Melo](http://img.youtube.com/vi/2I2BxY5GHj8/0.jpg)](https://www.youtube.com/watch?v=2I2BxY5GHj8&ab_channel=DesenvolvendoMe "Interview Joel Melo")
 <br>
 
-
 ## Round 3 - 37/100 - 23/04/2021 - Friday
 Google Kickstart APAC, mentoring<br>
 #100DaysOfMLCode
 <img alt="100DaysOfCode" src="./img/2021-04-22_00-47-43.png"  width="50%" heigth="50%"/><br>
-
 
 ## Round 3 - 36/100 - 22/04/2021 - Thursday
 Fashion MNIST dataset on Keras - Deep Learning
@@ -367,7 +366,6 @@ Kick Stark will be open in 30 hours!
 https://codingcompetitions.withgoogle.com/kickstart/<br>
 #100DaysOfMLCode<br>
 
-
 ## Round 3 - 30/100 - 16/04/2021 - Friday
 Time for Qwiklabs \o
 https://go.qwiklabs.com/ace-april?utm_source=linkedin&utm_medium=social&utm_campaign=ace-april<br>
@@ -383,7 +381,6 @@ https://www.openml.org/d/1480<br>
 \o/ Practice on Coding \o/<br>
 #100DaysOfMLCode<br>
 <img alt="100DaysOfCode" src="./img/2021-04-08_22-26-51.png"  width="50%" heigth="50%"/><br>
-
 
 ## Round 3 - 27/100 - 13/04/2021 - Tuesday
 Dataset Analysis, tunninh hyperparameters for:
@@ -437,7 +434,6 @@ Solving  HackerRank problems \0<br>
 watching Keras class part III<br>
 #100DaysOfMLCode<br>
 
-
 ## Round 3 - 16/100 - 02/04/2021 - Friday
 watching Keras class part II<br>
 #100DaysOfMLCode<br>
@@ -468,9 +464,6 @@ https://www.hackerrank.com/<br>
 Google JAM 2021 <br>
 https://codingcompetitions.withgoogle.com/codejam/<br>
 #100DaysOfMLCode<br>
-c
-
-
 
 ## Round 3 - 9/100 - 26/03/2021 - Friday
 Data analysis of 50 Startups dataset, find out correlaton between R&D Spend and Profit <br>
@@ -506,7 +499,6 @@ Learning how make a exaustive hypothesis about data without look it<br>
 Using version control for power bi projects take a look<br>
 https://github.com/awaregroup/powerbi-vcs<br>
 #100DaysOfMLCode
-
 
 ## Round 3 - 2/100 - 19/03/2021 - Friday
 Joined in 4th International Data Analysis Olympiad<br>
