@@ -44,7 +44,7 @@ Imagens
 ''' 
 
 # Round 3 - 100/100 - 25/06/2021 - Friday
-Services names in different clouds.<br>
+<br>
 <img alt="100DaysOfMLCode" src="./img/300_days_of_ML_code_2021-06-25_11-04-29.png"  width="50%" heigth="50%"/><br>
 #100DaysOfMLCode<br>
 
